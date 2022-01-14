@@ -1094,21 +1094,21 @@ Standard and Sample Preparation
 
 **Standard and Sample Reading**
 
-**1** On the home screen of the Qubit 3.0 Fluorometer, select " **dsDNA**", then " **High Sensitivity**", and then " **Read Standards**."
+1. On the home screen of the Qubit 3.0 Fluorometer, select " **dsDNA**", then " **High Sensitivity**", and then " **Read Standards**."
 
 **Note** If you have already performed a calibration for the selected assay, the instrument prompts you to choose between reading new standards and running samples using the previous calibration. If you wish to use the previous calibration, disregard step 3 in the Standard and Sample Preparation step, and skip to step 4 below. Otherwise, continue with step 2 below.
 
-**2** Insert the tube containing Standard #1 into the sample chamber, close the lid, and then press **Read standard**. When the reading is complete (~3 seconds), remove Standard #1.
+2. Insert the tube containing Standard #1 into the sample chamber, close the lid, and then press **Read standard**. When the reading is complete (~3 seconds), remove Standard #1.
 
-**3** Insert the tube containing Standard #2 into the sample chamber, close the lid, and then press **Read standard**. When the reading is complete, remove Standard #2.
+3. Insert the tube containing Standard #2 into the sample chamber, close the lid, and then press **Read standard**. When the reading is complete, remove Standard #2.
 
-**4** Press **Run samples**.
+4. Press **Run samples**.
 
-**5** On the assay screen, select the sample volume and units using the + or – buttons on the wheel to select the sample volume added to the assay tube (from 1–20 μl).
+5. On the assay screen, select the sample volume and units using the + or – buttons on the wheel to select the sample volume added to the assay tube (from 1–20 μl).
 
-**6** From the dropdown menu, select the units for the output sample concentration (ng/ μl).
+6. From the dropdown menu, select the units for the output sample concentration (ng/ μl).
 
-**7** Insert a sample tube into the sample chamber, close the lid, and press Read tube. When the reading is complete (~3 seconds), remove the sample tube and repeat until all samples have been read.
+7. Insert a sample tube into the sample chamber, close the lid, and press Read tube. When the reading is complete (~3 seconds), remove the sample tube and repeat until all samples have been read.
 
 **Part III: Normalization**
 
@@ -1124,19 +1124,15 @@ V1 = 1.78 μl of sample + 18.22 μl of RSB produces 20ul of a 4nM concentration
 
 **SAFE STOPPING POINT**
 
-If you do not plan to proceed to _Library Denaturing and MiSeq Sample Loading_ on page _28_, leave your sample in 4°C.
+If you do not plan to proceed to _Library Denaturing and MiSeq Sample Loading_, leave your sample in 4°C.
 
 **Library Denaturing and MiSeq Sample Loading**
-
-_Page 28- 30_
-
-Library Denaturing and MiSeq Sample Loading
 
 In preparation for cluster generation and sequencing, pooled libraries are denatured with NaOH, diluted with hybridization buffer, and then heat denatured before MiSeq sequencing. Each run must include a minimum of 5% PhiX to serve as an internal control for these low-diversity libraries. Illumina recommends using MiSeq v2 reagent kits for improved run metrics.
 
 Consumables
 
-**Table 14** _ **.** _ **Library Denaturing and Miseq Sample Loading Consumables**
+**Table 14. Library Denaturing and Miseq Sample Loading Consumables**
 
 | Item | Quantity | Storage |
 | --- | --- | --- |
@@ -1147,173 +1143,141 @@ Consumables
 | **PhiX Control Kit v3 (FC‐110‐3001)** | 2 μl | -15° to -25°C |
 | **MiSeq v2 reagent cartridge** | 1 cartridge | -15° to -25°C |
 | **1.7 ml microcentrifuge tubes (screw cap recommended)** | 3 tubes |
- |
 | **2.5 L ice bucket** |
  |
- |
-
-Preparation
+ 
+**Preparation**
 
 1. Begin thawing the reagent cartridge and HT1 before denaturing and diluting libraries by placing them in a room temperature water bath for about an hour
 
-**a** Once thawed, store the cartridge and HT1 in the ice bucket until ready for sample loading.
+    **A.** Once thawed, store the cartridge and HT1 in the ice bucket until ready for sample loading.
 
-1. Obtain an ice bucket for your thawed cartridge, freshly made reagents, and sample.
-2. Check pH of the stock 1.0N NaOH and the resulting 0.2N NaOH dilution using pH reader.
+2. Obtain an ice bucket for your thawed cartridge, freshly made reagents, and sample.
+3. Check pH of the stock 1.0N NaOH and the resulting 0.2N NaOH dilution using pH reader.
 
-**Note** CO2 in the room will acidify NaOH over time. It is absolutely **critical** that the NaOH has a minimum pH \&gt;12.5.
+    **Note:** CO2 in the room will acidify NaOH over time. It is absolutely **critical** that the NaOH has a minimum pH \&gt;12.5.
 
-1. Prepare a fresh dilution of 0.2 N NaOH [this is a critical step; NaOH must be prepared fresh every time]
+4. Prepare a fresh dilution of 0.2 N NaOH [this is a critical step; NaOH must be prepared fresh every time]
 
-**a** Using a 1000ul pipette, measure out 800uL of laboratory-grade water.
+    **a** Using a 1000ul pipette, measure out 800uL of laboratory-grade water.
 
-**b** In a separate microcentrifuge tube, measure 200uL of stock 1.0N NaOH.
+    **b** In a separate microcentrifuge tube, measure 200uL of stock 1.0N NaOH.
 
-**c** Combine the two volumes and then invert several times to mix
+    **c** Combine the two volumes and then invert several times to mix
 
-**Note** This results in a 1mL of 0.2N NaOH solution; the resulting solution cannot be stored and must be used within 6 hours
+        Note: This results in a 1mL of 0.2N NaOH solution; the resulting solution cannot be stored and must be used within 6 hours
 
-**Note** The final concentration of NaOH cannot exceed 0.001 (1mM). Higher NaOH concentrations will inhibit library hybridization to the flow cell and result in very low cluster density.
+        Note: The final concentration of NaOH cannot exceed 0.001 (1mM). Higher NaOH concentrations will inhibit library hybridization to the flow cell and result in very low cluster density.
 
-1. If you have not already done so, prepare a 200mM stock of Tris-HCl pH7.0 by combining 800 μl of Laboratory-grade water and 200 μl of Tris-HCl 1M.
+5. If you have not already done so, prepare a 200mM stock of Tris-HCl pH7.0 by combining 800 μl of Laboratory-grade water and 200 μl of Tris-HCl 1M.
 
-Denature DNA
+**Denature DNA**
 
-**1** Combine the following volumes of pooled final DNA library and freshly diluted 0.2 N NaOH in a microcentrifuge tube:
+1. Combine the following volumes of pooled final DNA library and freshly diluted 0.2 N NaOH in a microcentrifuge tube:
 
-• 4 nM pooled library (5 μl)
+    • 4 nM pooled library (5 μl)
 
-• 0.2 N NaOH (5 μl)
+    • 0.2 N NaOH (5 μl)
 
-**2** Set aside the remaining dilution of 0.2 N NaOH to prepare a PhiX control within the next 12 hours.
+2. Set aside the remaining dilution of 0.2 N NaOH to prepare a PhiX control within the next 12 hours.
 
-**3** Vortex briefly to mix the sample solution, and then centrifuge the sample solution at 280 × g (or about 1500rpm) at 20°C for 1 minute.
+3. Vortex briefly to mix the sample solution, and then centrifuge the sample solution at 280 × g (or about 1500rpm) at 20°C for 1 minute.
 
-**Library Denaturing and MiSeq Sample Loading**
+4.  Incubate for 5 minutes at room temperature to denature the DNA into single strands.
 
-**4** Incubate for 5 minutes at room temperature to denature the DNA into single strands.
+5. To the 10 μl of denatured library, add 5 μl of 200mM Tris-HCl pH7.0 to neutralize the NaOH.
 
-**5** To the 10 μl of denatured library, add 5 μl of 200mM Tris-HCl pH7.0 to neutralize the NaOH.
+6.  Add the following volume of pre‐chilled HT1 to the tube containing denatured DNA:
 
-**6** Add the following volume of pre‐chilled HT1 to the tube containing denatured DNA:
+    • Denatured DNA + Tris-HCl (15 μl)
 
-• Denatured DNA + Tris-HCl (15 μl)
+    • Pre‐chilled HT1 (985 μl)
 
-• Pre‐chilled HT1 (985 μl)
+    Adding the HT1 results in a 20 pM denatured library in 1 mM NaOH.
 
-Adding the HT1 results in a 20 pM denatured library in 1 mM NaOH.
+7. Place the denatured DNA on ice until you are ready to proceed to final dilution.
 
-**7** Place the denatured DNA on ice until you are ready to proceed to final dilution.
+**Quick Review/Guide for denaturing 4nM library:**
 
-Quick Review/Guide for denaturing 4nM library:
-
-![Shape16](RackMultipart20211206-4-h3p21n_html_1a54aa5dce36c326.gif)
+![](2022-01-13-20-06-06.png)
 
 **NOTE: If you have to start with a lower concentration library, follow the below protocol for denaturing a 2nM library.**
 
-Quick Review/Guide for denaturing 2nM library:
+**Quick Review/Guide for denaturing 2nM library:**
 
-![Shape17](RackMultipart20211206-4-h3p21n_html_b02b460d585abd70.gif)
+![](2022-01-13-20-06-32.png)
 
-Dilution chart for 10pM library:
+**Dilution chart for 10pM library:**
 
-| Final Concentration | 6pM | 8pM | 10pM |
- |
-| --- | --- | --- | --- | --- |
-| 10pM denatured library | 360 μl | 480 μl | 600 μl |
- |
-| Pre-chilled HTI | 240 μl | 120 μl | 0 μl |
- |
+![](2022-01-13-20-07-11.png)
 
-**Library Denaturing and MiSeq Sample Loading**
 
-Dilute Denatured DNA
+**Dilute Denatured DNA**
 
-**1** Dilute the denatured DNA to the desired concentration using the following example:
+1. Dilute the denatured DNA to the desired concentration using the following example:
 
-**NOTE**
+    **NOTE**
 
-Illumina recommends targeting 1000–1200 K/mm² raw cluster densities using MiSeq v2 reagents.
+    Illumina recommends targeting 1000–1200 K/mm² raw cluster densities using MiSeq v2 reagents.
 
-| Final Concentration | 2pM | 4pM | 6pM | 8pM | 10pM | **12pM** | **15pM** |
- | **20 pM** |
- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20pM denatured library | 60 μl | 120 μl | 180 μl | 240 μl | 300 μl | 360 μl | 450 μl |
- | 600 μl |
- |
-| Pre-chilled HTI | 540 μl | 480 μl | 420 μl | 360 μl | 300 μl | 240 μl | 150 μl |
- | 0 μl |
- |
+    ![](2022-01-13-20-53-46.png)
 
-**2** Invert several times to mix and then pulse centrifuge the DNA solution.
+2. Invert several times to mix and then pulse centrifuge the DNA solution.
 
-**3** Place the denatured and diluted DNA on ice.
+3. Place the denatured and diluted DNA on ice.
 
-Denature and Dilution of PhiX Control
+**Denature and Dilution of PhiX Control**
 
 Use the following instructions to denature and dilute the 10 nM PhiX library to the same loading concentration as the Amplicon library. The final library mixture must contain at least 5% PhiX.
 
-**1** Combine the following volumes to dilute the PhiX library to 4 nM:
+1. Combine the following volumes to dilute the PhiX library to 4 nM:
 
-• 10 nM PhiX library (2 μl)
+    • 10 nM PhiX library (2 μl)
 
-• RSB (3 μl)
+    • RSB (3 μl)
 
-**2** Combine the following volumes of 4 nM PhiX and 0.2 N NaOH in a microcentrifuge tube:
+3. Combine the following volumes of 4 nM PhiX and 0.2 N NaOH in a microcentrifuge tube:
 
-• 4 nM PhiX library (5 μl)
+    • 4 nM PhiX library (5 μl)
 
-• 0.2 N NaOH (5 μl)
+    • 0.2 N NaOH (5 μl)
 
-**3** Vortex briefly to mix the 2 nM PhiX library solution.
+3. Vortex briefly to mix the 2 nM PhiX library solution.
 
-**4** Incubate for 5 minutes at room temperature to denature the PhiX library into single strands.
+4. Incubate for 5 minutes at room temperature to denature the PhiX library into single strands.
 
-**5** To the 10 μl of denatured library, add 5 μl of 200mM Tris-HCl pH7.0 to neutralize the NaOH.
+5. To the 10 μl of denatured library, add 5 μl of 200mM Tris-HCl pH7.0 to neutralize the NaOH.
 
-**6** Add the following volumes of pre‐chilled HT1 to the tube containing denatured PhiX library to result in a 20 pM PhiX library:
+6. Add the following volumes of pre‐chilled HT1 to the tube containing denatured PhiX library to result in a 20 pM PhiX library:
 
-• Denatured PhiX library (15 μl)
+    • Denatured PhiX library (15 μl)
 
-• Pre‐chilled HT1 (985 μl)
+    • Pre‐chilled HT1 (985 μl)
 
-**7** Dilute the denatured 20 pM PhiX library to the same loading concentration as the Amplicon library as follows.
+7. Dilute the denatured 20 pM PhiX library to the same loading concentration as the Amplicon library as follows.
 
-| Final Concentration | 2pM | **4pM** | 6pM | 8pM | 10pM | **12pM** | **15pM** |
- | **20 pM** |
- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20pM denatured library | 60 μl | 120 μl | 180 μl | 240 μl | 300 μl | 360 μl | 450 μl |
- | 600 μl |
- |
-| Pre-chilled HTI | 540 μl | 480 μl | 420 μl | 360 μl | 300 μl | 240 μl | 150 μl |
- | 0 μl |
- |
+    ![](2022-01-13-20-56-17.png)
 
-**8** Invert several times to mix and then pulse centrifuge the DNA solution.
+8. Invert several times to mix and then pulse centrifuge the DNA solution.
 
-**9** Place the denatured and diluted PhiX on ice.
+9. Place the denatured and diluted PhiX on ice.
 
-Combine Amplicon Library and PhiX Control
+**Combine Amplicon Library and PhiX Control**
 
-**Note** The recommended PhiX control spike‐in of ≥ 5% for low diversity libraries is possible with RTA v1.17.28 or later, which is bundled with MCS v2.2. For optimal performance, update to v3 software (MCS 2.3). If you are using an older version of the MiSeq software or sequencing these libraries on the GA or HiSeq, Illumina recommends using ≥ 25% PhiX control spike‐in.
+    Note: The recommended PhiX control spike‐in of ≥ 5% for low diversity libraries is possible with RTA v1.17.28 or later, which is bundled with MCS v2.2. For optimal performance, update to v3 software (MCS 2.3). If you are using an older version of the MiSeq software or sequencing these libraries on the GA or HiSeq, Illumina recommends using ≥ 25% PhiX control spike‐in.
 
-**1** Combine the following volumes of denatured PhiX control library and your denatured amplicon library in a microcentrifuge tube, which results in a 5% spike-in of PhiX:
+1. Combine the following volumes of denatured PhiX control library and your denatured amplicon library in a microcentrifuge tube, which results in a 5% spike-in of PhiX:
 
-• Denatured and diluted PhiX control (30 μl)
+    • Denatured and diluted PhiX control (30 μl)
 
-• Denatured and diluted amplicon library (570 μl)
+    • Denatured and diluted amplicon library (570 μl)
 
-**2** Set the combined sample library and PhiX control aside on ice until you are ready to load the mixture into the MiSeq v2 reagent cartridge.
+2. Set the combined sample library and PhiX control aside on ice until you are ready to load the mixture into the MiSeq v2 reagent cartridge.
 
-**3** Invert the tube 1–2 times to mix and load all 600ul into the designated well in the cartridge.
+3. Invert the tube 1–2 times to mix and load all 600ul into the designated well in the cartridge.
 
 **Supporting Information**
 
-_Page 31 – 35_
-
-Supporting Information
 
 The protocols described in this guide assume that you are familiar with the contents of this section and have obtained all of the requisite equipment and consumables.
 
@@ -1331,7 +1295,7 @@ Dual Indexing Principle
 
 The dual indexing strategy uses two 8 base indices, Index 1 (i7) adjacent to the P7 sequence, and Index 2 (i5) adjacent to the P5 sequence. Dual indexing is enabled by adding a unique Index 1 (i7) and Index 2 (i5) to each sample. The 96 sample Nextera XT Index Kit (FC‐131–1002) use 12 different Index 1 (i7) adapters (N701–N712) and 8 different Index 2 (i5) adapters (S501–S508). The 24 sample Nextera XT Index Kit (FC‐131–1001) uses 6 different Index 1 (i7) adapters (N701–N706) and 4 different Index 2 (i5) adapters (S501–S504). In the Index adapter name, the N or S refers to Nextera XT sample preparation, 7 or 5 refers to Index 1 (i7) or Index 2 (i5), respectively. The 01–12 refers to the Index number. A list of index sequences is provided for generating sample sheets to demultiplex the samples:
 
-| _**Index 1 (i7)**_ | _ **Sequence** _ | _**Index 2 (i5)**_ | _ **Sequence** _ |
+| _**Index 1 (i7)**_ |  **Sequence**  | **Index 2 (i5)** |  **Sequence** |
 | --- | --- | --- | --- |
 | N701 | TAAGGCGA | S501 | TAGATCGC |
 | N702 | CGTACTAG | S502 | CTCTCTAT |
@@ -1380,195 +1344,179 @@ Illumina uses a green laser or LED to sequence G/T and a red laser or LED to seq
 
 These strategies represent only some of the acceptable combinations. Alternatively, check the real sequences of each index in the tables to make sure that each base position has a signal in both color channels for the index read:
 
-| Good | Bad |
-| --- | --- |
-| Index 1 | Index 2 | Index 1 | Index 2 |
-| 705 | GGACTCCT | 503 | TATCCTCT | 705 | GGACTCCT | 502 | CTCTCTAT |
-| 706 | TAGGCATG | 503 | TATCCTCT | 706 | TAGGCATG | 502 | CTCTCTAT |
-| 701 | TAAGGCGA | 504 | AGAGTAGA | 701 | TAAGGCGA | 503 | TATCCTCT |
-| 702 | CGTACTAG | 504 | AGAGTAGA | 702 | CGTACTAG | 503 | TATCCTCT |
-|
- | √ √ √ √ √ √ √ √ |
- | √ √ √ √ √ √ √ √ |
- | √ √ √ √ √ √ √ √ |
- | √ √ √ √ xxxx |
+![](2022-01-13-21-00-55.png)
 
 √=signal in both color
 
 x=signal missing in one color channel
 
-**Supporting Information**
 
-Prevent PCR Product Contamination
+**Prevent PCR Product Contamination**
 
 The PCR process is commonly used in the laboratory to amplify specific DNA sequences. Unless proper laboratory hygiene is used, PCR products can contaminate reagents, instrumentation, and genomic DNA samples, causing inaccurate and unreliable results. PCR product contamination can shut down lab processes and significantly delay normal operations.
 
 Make sure that the lab is set up appropriately to reduce the risk of PCR product contamination:
 
-• **Physically Separate Pre-PCR and Post-PCR Areas**
+    Physically Separate Pre-PCR and Post-PCR Areas
 
-• Physically separate laboratory space where pre‐PCR processes are performed (DNA extraction, quantification, and normalization) from the laboratory space where PCR products are made and processed (post‐PCR processes).
+        • Physically separate laboratory space where pre‐PCR processes are performed (DNA extraction, quantification, and normalization) from the laboratory space where PCR products are made and processed (post‐PCR processes).
 
-• Never use the same sink to wash pre‐PCR and post‐PCR troughs.
+        • Never use the same sink to wash pre‐PCR and post‐PCR troughs.
 
-• Never share water purification systems for pre‐PCR and post‐PCR processes.
+        • Never share water purification systems for pre‐PCR and post‐PCR processes.
 
-• Store all supplies used in the protocols in the pre‐PCR area, and transfer to the post‐ PCR area as needed.
+        • Store all supplies used in the protocols in the pre‐PCR area, and transfer to the post‐ PCR area as needed.
 
-• **Use Dedicated Equipment and Supplies**
+    Use Dedicated Equipment and Supplies 
 
-• Dedicate separate full sets of equipment and supplies (pipettes, centrifuges, oven, heat block, etc.) to pre‐PCR and post‐PCR lab processes, and never share between processes.
+        • Dedicate separate full sets of equipment and supplies (pipettes, centrifuges, oven, heat block, etc.) to pre‐PCR and post‐PCR lab processes, and never share between processes.
 
-• Dedicate separate storage areas (freezers and refrigerators) to pre‐PCR and post‐PCR consumables.
+        • Dedicate separate storage areas (freezers and refrigerators) to pre‐PCR and post‐PCR consumables.
 
 Because the pre‐ and post‐amplification reagents are shipped together, it is important to unpack the reagents in the pre‐PCR lab area. After unpacking the reagents, move the post-amplification reagents to the proper post‐PCR storage area.
 
-Pre‐PCR and Post‐PCR Lab Procedures
+**Pre‐PCR and Post‐PCR Lab Procedures**
 
 To prevent PCR product contamination, it is important to establish lab procedures and follow best practices. Illumina recommends daily and weekly cleaning of lab areas using 0.5% Sodium Hypochlorite (10% Bleach).
 
-**CAUTION**
+    CAUTION
 
-To prevent sample or reagent degradation, make sure that all vapors from the cleaning solution have fully dissipated before beginning any processes.
+    To prevent sample or reagent degradation, make sure that all vapors from the cleaning solution have fully dissipated before beginning any processes.
 
-Daily Cleaning of Pre‐PCR Area
+**Daily Cleaning of Pre‐PCR Area**
 
 A daily cleaning of the pre‐PCR area using a 0.5% Sodium Hypochlorite (10% Bleach) solution helps to eliminate PCR product that has entered the pre‐PCR area. Identify pre‐PCR areas that pose the highest risk of contamination, and clean these areas with a 0.5% Sodium Hypochlorite (10% Bleach) solution before beginning any pre‐PCR processes. High‐risk areas might include, but are not limited to, the following items:
 
-• Benchtops
+      • Benchtops
 
-• Door handles
+      • Door handles
 
-• Refrigerator/freezer door handles
+      • Refrigerator/freezer door handles
 
-• Computer mouse
+      • Computer mouse
 
-• Keyboards
+      • Keyboards
 
-Daily Cleaning of Post‐PCR Area
+**Daily Cleaning of Post‐PCR Area**
 
 Reducing the amount of PCR product in the post‐PCR area helps reduce the risk of contamination in the pre‐PCR area. Daily cleaning of the post‐PCR area using a 0.5% Sodium Hypochlorite (10% Bleach) solution helps reduce the risk of contamination. Identify post‐PCR areas that pose the highest risk of contamination, and clean these areas with a 0.5% Sodium Hypochlorite (10% Bleach) solution daily. High‐risk areas might include, but are not limited to, the following items:
 
-• Thermal cyclers
+      • Thermal cyclers
 
-• Bench space used to process amplified DNA
+      • Bench space used to process amplified DNA
 
-• Door handles
+      • Door handles
 
-• Refrigerator/freezer door handles
+      • Refrigerator/freezer door handles
 
-• Computer mouse
+      • Computer mouse
 
-• Keyboards
+      • Keyboards
 
-**Supporting Information**
 
-Weekly Cleaning of All Lab Areas
+**Weekly Cleaning of All Lab Areas**
 
 One time a week, perform a thorough cleaning of the pre‐PCR and post‐PCR areas using 0.5% Sodium Hypochlorite (10% Bleach).
 
-• Clean all benchtops and laboratory surfaces.
+      • Clean all benchtops and laboratory surfaces.
 
-• Clean all instruments that are not cleaned daily.
+      • Clean all instruments that are not cleaned daily.
 
-• Thoroughly mop lab floors.
+      • Thoroughly mop lab floors.
 
-• Make sure that personnel responsible for weekly cleaning are properly trained on prevention of PCR product contamination.
+      • Make sure that personnel responsible for weekly cleaning are properly trained on prevention of PCR product contamination.
 
-Items Fallen to the Floor
+**Items Fallen to the Floor**
 
 The floor is contaminated with PCR product transferred on the shoes of individuals coming from the post‐PCR area; therefore, anything falling to the floor must be treated as contaminated.
 
-• Disposable items that have fallen to the floor, such as empty tubes, pipette tips, gloves, lab coat hangers, must be discarded.
+    • Disposable items that have fallen to the floor, such as empty tubes, pipette tips, gloves, lab coat hangers, must be discarded.
 
-• Non‐disposable items that have fallen to the floor, such as a pipette or an important sample container, must be immediately and thoroughly cleaned. Use a 0.5% Sodium Hypochlorite (10% Bleach) solution to remove PCR product contamination.
+    • Non‐disposable items that have fallen to the floor, such as a pipette or an important sample container, must be immediately and thoroughly cleaned. Use a 0.5% Sodium Hypochlorite (10% Bleach) solution to remove PCR product contamination.
 
-• Clean any lab surface that has come in contact with the contaminated item. Individuals handling anything that has fallen to the floor, disposable or non‐disposable, must discard their lab gloves and put on a new pair.
+    • Clean any lab surface that has come in contact with the contaminated item. Individuals handling anything that has fallen to the floor, disposable or non‐disposable, must discard their lab gloves and put on a new pair.
 
-Best Practices
+**Best Practices**
 
 When preparing libraries for sequencing, always adhere to good molecular biology practices. Read through the entire protocol before starting to make sure that all of the required materials are available and your equipment is programmed and ready to use.
 
-Handling Liquids
+    Handling Liquids
 
-Good liquid handling measures are essential, particularly when quantifying libraries or diluting concentrated libraries for making clusters.
+    Good liquid handling measures are essential, particularly when quantifying libraries or diluting concentrated libraries for making clusters.
 
-• Small differences in volumes (±0.5 μl) can sometimes cause large differences in cluster numbers (~100,000).
+        • Small differences in volumes (±0.5 μl) can sometimes cause large differences in cluster numbers (~100,000).
 
-• Small volume pipetting can be a source of potential error in protocols requiring the generation of standard curves, such as qPCR, or small but precise volumes, such as the Agilent Bioanalyzer.
+        • Small volume pipetting can be a source of potential error in protocols requiring the generation of standard curves, such as qPCR, or small but precise volumes, such as the Agilent Bioanalyzer.
 
-• If small volumes are unavoidable, use due diligence to make sure that pipettes are correctly calibrated.
+        • If small volumes are unavoidable, use due diligence to make sure that pipettes are correctly calibrated.
 
-• Make sure that pipettes are not used at the volume extremes of their performance specifications.
+        • Make sure that pipettes are not used at the volume extremes of their performance specifications.
 
-• Prepare the reagents for multiple samples simultaneously, to minimize pipetting errors, especially with small volume enzyme additions. As a result, pipette one time from the reagent tubes with a larger volume, rather than many times with small volumes. Aliquot to individual samples in a single pipetting movement to allow for standardization across multiple samples.
+        • Prepare the reagents for multiple samples simultaneously, to minimize pipetting errors, especially with small volume enzyme additions. As a result, pipette one time from the reagent tubes with a larger volume, rather than many times with small volumes. Aliquot to individual samples in a single pipetting movement to allow for standardization across multiple samples.
 
-Handling Magnetic Beads
+    Handling Magnetic Beads
 
-**NOTE** Cleanup procedures have only been validated using the 96‐well plates and the magnetic stand specified in **Tables 1 and 2**. Comparable performance is not guaranteed when using a microcentrifuge tube or other formats, or other magnets.
+    NOTE: Cleanup procedures have only been validated using the 96‐well plates and the magnetic stand specified in Tables 1 and 2. Comparable performance is not guaranteed when using a microcentrifuge tube or other formats, or other magnets.
 
-• Before use, allow the beads to come to room temperature.
+        • Before use, allow the beads to come to room temperature.
 
-• Do not reuse beads. Always add fresh beads when performing these procedures.
+        • Do not reuse beads. Always add fresh beads when performing these procedures.
 
-• Immediately before use, vortex the beads until they are well dispersed and the color of the liquid is homogeneous.
+        • Immediately before use, vortex the beads until they are well dispersed and the color of the liquid is homogeneous.
 
-• When pipetting beads, pipette slowly and dispense slowly due to the viscosity of the solution.
+        • When pipetting beads, pipette slowly and dispense slowly due to the viscosity of the solution.
 
-• Take care to minimize bead loss, which can affect final yields.
+        • Take care to minimize bead loss, which can affect final yields.
 
-• Change the tips for each sample, unless specified otherwise.
+        • Change the tips for each sample, unless specified otherwise.
 
-• Let the mixed samples incubate at room temperature for the time indicated in the protocol for maximum recovery.
+        • Let the mixed samples incubate at room temperature for the time indicated in the protocol for maximum recovery.
 
-• When removing and discarding supernatant from the wells, use a single channel or multichannel pipette and take care not to disturb the beads
+        • When removing and discarding supernatant from the wells, use a single channel or multichannel pipette and take care not to disturb the beads
 
-• When aspirating the cleared solution from the reaction plate and wash step, it is important to keep the plate on the magnetic stand and not disturb the separated magnetic beads. Aspirate slowly to prevent the beads from sliding down the sides of the wells and into the pipette tips.
+        • When aspirating the cleared solution from the reaction plate and wash step, it is important to keep the plate on the magnetic stand and not disturb the separated magnetic beads. Aspirate slowly to prevent the beads from sliding down the sides of the wells and into the pipette tips.
 
-• To prevent the carryover of beads after elution, approximately 2.5 μl of supernatant is left when the eluates are removed from the bead pellet.
+        • To prevent the carryover of beads after elution, approximately 2.5 μl of supernatant is left when the eluates are removed from the bead pellet.
 
-• Be sure to remove all of the ethanol from the bottom of the wells, as it can contain residual contaminants.
+        • Be sure to remove all of the ethanol from the bottom of the wells, as it can contain residual contaminants.
 
-**Supporting Information**
+        • Keep the reaction plate on the magnetic stand and let it air‐dry at room temperature to prevent potential bead loss due to electrostatic forces. Allow for the complete evaporation of residual ethanol, because the presence of ethanol affects the performance of the subsequent reactions. Illumina recommends at least minutes drying time, but a longer drying time can be required. Remaining ethanol can be removed with a 10 μl pipette.
 
-• Keep the reaction plate on the magnetic stand and let it air‐dry at room temperature to prevent potential bead loss due to electrostatic forces. Allow for the complete evaporation of residual ethanol, because the presence of ethanol affects the performance of the subsequent reactions. Illumina recommends at least minutes drying time, but a longer drying time can be required. Remaining ethanol can be removed with a 10 μl pipette.
+        • Avoid over drying the beads, which can impact final yields.
 
-• Avoid over drying the beads, which can impact final yields.
+        • Do not scrape the beads from the edge of the well using the pipette tip.
 
-• Do not scrape the beads from the edge of the well using the pipette tip.
+        • To maximize sample recovery during elution, incubate the sample/bead mix for 2 minutes at room temperature before placing the samples onto the magnet.
 
-• To maximize sample recovery during elution, incubate the sample/bead mix for 2 minutes at room temperature before placing the samples onto the magnet.
-
-Avoiding Cross‐Contamination
+**Avoiding Cross‐Contamination**
 
 Practice the following to avoid cross‐contamination:
 
-• Open only one adapter tube at a time.
+    • Open only one adapter tube at a time.
 
-• Change the tips for each sample, unless specified otherwise.
+    • Change the tips for each sample, unless specified otherwise.
 
-• Pipette carefully to avoid spillage.
+    • Pipette carefully to avoid spillage.
 
-• Clean pipettes and change gloves between handling different adapter stocks.
+    • Clean pipettes and change gloves between handling different adapter stocks.
 
-• Clean work surfaces thoroughly before and after the procedure.
+    • Clean work surfaces thoroughly before and after the procedure.
 
-Potential DNA Contaminants
+**Potential DNA Contaminants**
 
 When handling and processing samples using this protocol, use best practices to avoid PCR contamination, as you would when preparing PCR amplicons.
 
-Temperature Considerations
+**Temperature Considerations**
 
 Temperature is an important consideration for making libraries:
 
-• Keep libraries at temperatures ≤37°C, except where specifically noted.
+    • Keep libraries at temperatures ≤37°C, except where specifically noted.
 
-• Place reagents on ice after thawing at room temperature.
+    • Place reagents on ice after thawing at room temperature.
 
-Equipment
+**Equipment**
 
-• Review the programming instructions for your thermal cycler user guide to make sure that it is programmed appropriately using the heated lid function.
+    • Review the programming instructions for your thermal cycler user guide to make sure that it is programmed appropriately using the heated lid function.
 
-• It is acceptable to use the thermal cycler tracked heating lid function.
+    • It is acceptable to use the thermal cycler tracked heating lid function.
 
-60
