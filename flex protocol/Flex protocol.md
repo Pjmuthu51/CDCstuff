@@ -2,35 +2,33 @@
 
 _Preparing full length genes Pf kelch 13 (k13), Pf chloroquine resistant transporter (crt), Pf multidrug resistant protein 1 (mdr1), Pf bifunctional dihydrofolate reductase-thymidylate synthase (dhfr), Pf dihydropteroate synthase (dhps) mitochondrial genome, Pf s47, and Pfcpmp amplicons for sequencing on the Illumina MiSeq system_
 
-Introduction/General Overview 2
+• Introduction/General Overview 
 
-Materials and Equipment 3-4
+• Materials and Equipment 
 
-NGS Library Preparation Workflow 5
+• NGS Library Preparation Workflow 
 
-PET PCR Sample QC 6-8
+• PET PCR Sample QC 
 
-Gene PCR Enrichment 9-14
+• Gene PCR Enrichment 
 
-Electrophoresis 15
+• Electrophoresis 
 
-SequalPrep Normalization and Purification 16-17
+• SequalPrep Normalization and Purification
 
-Tagment Genomic DNA and Tagmentation Clean-Up 18-19
+• Tagment Genomic DNA and Tagmentation Clean-Up 
 
-Amplification of Tagmented DNA (Index PCR) 20-21
+• Amplification of Tagmented DNA (Index PCR) 
 
-Library PCR Clean up 22-23
+• Library PCR Clean up 2
 
-Library Pooling, Quantification, and Normalization 24-27
+• Library Pooling, Quantification, and Normalization 
 
-Library Denaturing and MiSeq Sample Loading 28-30
+• Library Denaturing and MiSeq Sample Loading 
 
-Supporting Information 31-35
+• Supporting Information
 
-
-
-IMPORTANT NOTICE
+**IMPORTANT NOTICE**
 
 This document provides information for an application for Illumina technology that has been demonstrated internally and may be of interest to customers. This information is provided as‐is and is not an Illumina product and is not accompanied by any rights or warranties. Customers using or adapting this information should obtain any licenses required and materials from authorized vendors. Illumina products mentioned herein are for research use only unless marked otherwise. While customer feedback is welcomed, this application is not supported by Illumina Technical Support and Field Application Scientists.
 
