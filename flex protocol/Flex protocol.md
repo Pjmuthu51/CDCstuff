@@ -289,6 +289,7 @@ The table below shows the primers and PCR conditions for a multiplex reaction- G
 
 ##### **Table 5. _Multiplexing genus and P. falciparum species specific primers_** 
 ![](2021-12-08-21-25-26.png)
+
 **Primers:**
 
 **Genus 18sFor (5' to 3')** : 5' -GGC CTA ACA TGG CTA TGA CG-3'

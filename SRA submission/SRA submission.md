@@ -20,7 +20,7 @@ First go to [**https://submit.ncbi.nlm.nih.gov/subs/bioproject/**](https://submi
 
   - **Publications:** this page collects publication information specific to the registered project. A publication identifier is required. A PubMed ID or DOI is required..
 
-  - **Overview :** this page presents a summary of the provided information. Click the 'Submit' button at the bottom of the page to complete the submission.
+  - **Overview:** this page presents a summary of the provided information. Click the 'Submit' button at the bottom of the page to complete the submission.
 
 Once you complete submission you receive a bioproject ID. The format of the BioProject Accession is five alpha-letters followed by one to six numbers. For example **PRJNA428490**
 
@@ -44,7 +44,7 @@ Click on this link [**https://submit.ncbi.nlm.nih.gov/subs/biosample**](https://
 - Additional attributes can be added by creating another column with a unique header
 - Complete the template table. Save the worksheet as a Text (Tab-delimited) file. Upload the text file on the 'Attributes' tab of the BioSample Submission Portal at [https://submit.ncbi.nlm.nih.gov/subs/biosample/](https://submit.ncbi.nlm.nih.gov/subs/biosample/)
 
-- **Overview** : Look over the submission and when you are satisfied "Click" submit button if everything is fine
+- **Overview:** Look over the submission and when you are satisfied "Click" submit button if everything is fine
 
 Here is the example Biosample attribute file for BioProject ID: **PRJNA428490**
 
@@ -55,19 +55,19 @@ Here is the example Biosample attribute file for BioProject ID: **PRJNA428490**
 ### Steps in Submission Process
 
 - **Submitter:** Please fill in all requested fields.
-- **General info** :BioProjects are selected by typing in the BioProject name (either the PRJNA#### accession or the title)
-- **SRA metadata** : Download and complete the tab-separated SRA metadata table. Upload the completed SRA metadata table to this page.
+- **General info:** BioProjects are selected by typing in the BioProject name (either the PRJNA#### accession or the title)
+- **SRA metadata:** Download and complete the tab-separated SRA metadata table. Upload the completed SRA metadata table to this page.
 
 - Paired-end data with separate forward and reverse read files should have 2 filename columns so that both files are listed on the same row of the spreadsheet
 - Additional attributes can be added by creating another column with a header
 
-- here is the example metadtata file for SRA submission for BioProject ID: **PRJNA428490**
+- Here is the example metadtata file for SRA submission for BioProject ID: **PRJNA428490**
 
 ### Upload Metadata file.
 
 - **Files:** is where you upload the files and this is done through the "Browse" button. The files can be transferred either through HTTP
 
-- **Each file must be listed**  in the [SRA metadata table that you uploaded.](https://submit.ncbi.nlm.nih.gov/api/2.0/files/?format=attachment) If you are uploading a tar archive, list each file name, not the archive name.
+- **Each file must be listed** in the [SRA metadata table that you uploaded.](https://submit.ncbi.nlm.nih.gov/api/2.0/files/?format=attachment) If you are uploading a tar archive, list each file name, not the archive name.
 - Files can be compressed using  **gzip**  or  **bzip2** , and may be submitted in a tar archive but archiving and/or compressing your files is not required.  **Do not uses zip!**
 - All file names must be  **unique**.
 
