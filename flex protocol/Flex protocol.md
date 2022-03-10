@@ -20,7 +20,7 @@ _Preparing full length genes Pf kelch 13 (k13), Pf chloroquine resistant transpo
 
 • Amplification of Tagmented DNA (Index PCR) 
 
-• Library PCR Clean up 2
+• Library PCR Clean up
 
 • Library Pooling, Quantification, and Normalization 
 
@@ -34,9 +34,9 @@ This document provides information for an application for Illumina technology th
 
 
 
-November 2nd, 2017 version 3.3 modified by Eldin Talundzic ([etalundzic@cdc.gov)](mailto:etalundzic@cdc.gov))
+October 2nd, 2021 version 4.0 modified by Eldin Talundzic ([etalundzic@cdc.gov)](mailto:etalundzic@cdc.gov))
 
-This protocol format was adapted from the 16S Metagenomics Sequencing Library Preparation [protocol](http://support.illumina.com/documents/documentation/chemistry_documentation/16s/16s-metagenomic-library-prep-guide-15044223-b.pdf) from Illumina.
+This protocol format was adapted from the 16S Metagenomics Sequencing Library Preparation [protocol](http://support.illumina.com/documents/documentation/chemistry_documentation/16s/16s-metagenomic-library-prep-guide-15044223-b.pdf) from Illumina, and the [Illlumina DNA Prep Reference Guide](https://support.illumina.com/content/dam/illumina-support/documents/documentation/chemistry_documentation/illumina_prep/illumina-dna-prep-reference-guide-1000000025416-09.pdf).
 
 ## **Introduction and General Workflow**
 
@@ -52,7 +52,8 @@ Below is a table of the major molecular markers and their respective amino acid 
 ### **Table 1** Molecular Markers and amino acid polymorphisms
 
 
-![Table 1 Molecular Markers and amino acid polymorphisms](2021-12-08-21-11-17.png)
+
+![](2022-03-05-17-32-55.png)
 
 **\*C350R** _results in a reduction of chloroquine resistance._
 
@@ -550,7 +551,7 @@ For example: this laboratory utilizes the remaining 42μl of PCR product, to whi
 
 **NOTE:** Incubations longer than 60 minutes do not improve results. However, depending on your work flow you may perform overnight incubation at room temperature for the binding step.
 
-**5** Optional: If \&gt;25 ng DNA/well yield is desired, transfer the amplicon/Binding Buffer mixture from Step 4 to another, fresh well/plate to sequentially bind more DNA. Perform DNA binding at room temperature for 1 hour.
+**5** Optional: If 25 ng DNA/well yield is desired, transfer the amplicon/Binding Buffer mixture from Step 4 to another, fresh well/plate to sequentially bind more DNA. Perform DNA binding at room temperature for 1 hour.
 
 **NOTE:** After binding is complete, you can remove the amplicon/Binding Buffer mixture from the well and store at –20ºC for up to 30 days to perform additional purifications at a later time.
 
@@ -560,7 +561,7 @@ For example: this laboratory utilizes the remaining 42μl of PCR product, to whi
 
 **7** Add 50 μl SequalPrep™ Normalization Wash Buffer to the wells. Mix by pipetting up and down twice to improve removal of contaminants.
 
-**NOTE**** :** If you wish to store the amplicon/Binding Buffer mixture for additional purifications at a later time, aspirate the liquid from wells into another plate and store at –20ºC for up to 30 days.
+**NOTE:** If you wish to store the amplicon/Binding Buffer mixture for additional purifications at a later time, aspirate the liquid from wells into another plate and store at –20ºC for up to 30 days.
 
 **8** Completely aspirate the buffer from wells and discard. To ensure complete removal of wash buffer and maximize elution efficiency, you may need to invert and tap the plate on paper towels depending on the pipetting technique or instrument used. A small amount of residual Wash Buffer (1–3 μl) is typical and does not affect the subsequent elution or downstream applications.
 
@@ -568,7 +569,7 @@ For example: this laboratory utilizes the remaining 42μl of PCR product, to whi
 
 **9** Add 20 μl SequalPrep™ Normalization Elution Buffer to each well of the plate.
 
-**NOTE**** :** Do not use water for elution. If you need to elute in any other buffer, be sure to use a buffer of pH 8.5–9.0. If the pH of the buffer is \&lt;8.5, the DNA will not elute efficiently.
+**NOTE:** Do not use water for elution. If you need to elute in any other buffer, be sure to use a buffer of pH 8.5–9.0. If the pH of the buffer is 8.5, the DNA will not elute efficiently.
 
 **10** Mix by pipetting up and down 5 times (or seal the plate with Foil Tape, vortex to mix, and briefly centrifuge the plate). Ensure that the buffer contacts the entire plate coating (up to 20 μl level).
 
