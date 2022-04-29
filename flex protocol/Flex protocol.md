@@ -1,6 +1,6 @@
 # **Targeted Amplicon Deep Sequencing of Plasmodium falciparum (Pf) molecular markers of resistance**
 
-_Preparing full length genes Pf kelch 13 (k13), Pf chloroquine resistant transporter (crt), Pf multidrug resistant protein 1 (mdr1), Pf bifunctional dihydrofolate reductase-thymidylate synthase (dhfr), Pf dihydropteroate synthase (dhps) mitochondrial genome, Pf s47, and Pfcpmp amplicons for sequencing on the Illumina MiSeq system_
+*Preparing full length genes Pf kelch 13 (k13), Pf chloroquine resistant transporter (crt), Pf multidrug resistant protein 1 (mdr1), Pf bifunctional dihydrofolate reductase-thymidylate synthase (dhfr), Pf dihydropteroate synthase (dhps) mitochondrial genome, Pf s47, and Pfcpmp amplicons for sequencing on the Illumina MiSeq system.*
 
 • Introduction/General Overview 
 
@@ -41,7 +41,7 @@ This protocol format was adapted from the 16S Metagenomics Sequencing Library Pr
 ## **Introduction and General Workflow**
 
 
-Human malaria is caused by four parasite species called _Plasmodium falciparum (Pf), P. vivax (Pv), P. ovale (Po)_ and _P. malariae (Pm)._ Two of these, _Pf_ and _Pv,_ pose the greatest threat to global public health. About 3.2 billion people, half of the world's population, are at risk for malaria. In 2015, 95 nations had ongoing malaria transmission and annually 198 million people suffer from malaria, causing an estimated 438,000 deaths. In the U.S., an estimated 1,500 - 2,000 cases of malaria are imported annually. One of the greatest public health challenges for malaria control and elimination is the threat of drug resistant _Pf_ parasites.
+Human malaria is caused by four parasite species called *Plasmodium falciparum (Pf), P. vivax (Pv), P. ovale (Po)* and *P. malariae (Pm)*. Two of these, *Pf* and *Pv*, pose the greatest threat to global public health. About 3.2 billion people, half of the world's population, are at risk for malaria. In 2015, 95 nations had ongoing malaria transmission and annually 198 million people suffer from malaria, causing an estimated 438,000 deaths. In the U.S., an estimated 1,500 - 2,000 cases of malaria are imported annually. One of the greatest public health challenges for malaria control and elimination is the threat of drug resistant *Pf* parasites.
 
 Our previously effective anti-malarial treatments, chloroquine (CQ) and sulfadoxine/pyrimethamine (SP), are ineffective in many regions. Even more alarming, resistance to our last effective class of anti-malarial drugs, called artemisinins, has now emerged and spread in Southeast Asia — threatening malaria control and prevention programs globally.
 
@@ -322,7 +322,7 @@ _**P. falciparum**_ **Rev (5' to 3'):** 5'-agg cgg ata ccg cct ggT CGG GCC CCA A
 
 1. Start the real-time PCR thermocycler according to the manufacturer's guidelines.
 2. Program the software to detect fluorescence through FAM, HEX and ROX filters all wells. ROX is to be detected as a reference dye.
-3. Program the software to run the cycling conditions shown on page under table 5.
+3. Program the software to run the cycling conditions shown under table 5.
 4. Fluorescence data should be collected at the amplification plateau.
 
 #### **Interpreting Results**
@@ -372,7 +372,7 @@ User‐defined forward and reverse primers are used to amplify templates from ge
 - Calculate appropriate volumes for mastermix based on number of samples to be included in reaction; multiply each reagent volume times the total number of samples + 1 (for user pipetting errors)
 - Final volume of master mix is given in **Tables 6.1 - 6.6**
 
-**NOTE:**  _If the number of samples is \&lt;5, make a mastermix for at least 6 samples to avoid pipetting volume errors._
+**NOTE:**  _If the number of samples is >5, make a mastermix for at least 6 samples to avoid pipetting volume errors._
 
 **2** Seal plates and/or PCR tubes.
 
@@ -499,7 +499,7 @@ This step is necessary to ensure successful amplification of amplicons. It is re
 
 **16** Remove the gel from the chamber and take to the gel reading station for analysis.
 
-**17** Once amplification is confirmed, proceed to SequalPrep Normalization ( **page 16-17** ).
+**17** Once amplification is confirmed, proceed to SequalPrep Normalization.
 
 **Clean-Up: SequalPrep Normalization**
 
@@ -658,7 +658,7 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 
 **4** Mix well, resuspending the beads 10 times with multichannel pipet set to 40 μl. **Do not spin the plate.**
 
-**5** Seal the plate with Microseal B (or equivalent) and incubate the plate on the pre-programmed thermal cycler setting "Flex 1"with volume set to 50 μl and lid heated option at 100°C:
+**5** Seal the plate with Microseal B (or equivalent) and incubate the plate on the pre-programmed thermal cycler setting "Flex 1" with volume set to 50 μl and lid heated option at 100°C:
 
       55°C for 15 min
 
@@ -692,7 +692,7 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 
 **9** Using a multichannel pipette set at 100 μl, remove and discard supernatant.
 
-**10** Complete steps **a** - **d** two times:
+**10** Complete steps **A** - **D** below two times:
 
 **a.** Remove the sample plate from the magnetic stand and add 100 μl TWB directly onto the beads.
 
@@ -710,7 +710,7 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 
 **13** Seal the plate and place on the magnetic stand until the solution is clear (~3 minutes). Allow TWB to remain in the wells (to prevent drying of beads) and proceed to amplification steps.
 
-**THIS IS**  **NOT**  **A RECOMMENDED SAFE STOPPING POINT** Please proceed to Ampification of Tagmented DNAon page **20**.
+**THIS IS**  **NOT**  **A RECOMMENDED SAFE STOPPING POINT** Please proceed to Ampification of Tagmented DNA.
 
 
 
@@ -732,7 +732,7 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 
 #### Preparation
 
-•Using the samples suspended in the 100μl of TWB from the Post Tagmentation Clean-Up step (see **page 18-19** ), follow the procedure outlined below
+•Using the samples suspended in the 100μl of TWB from the Post Tagmentation Clean-Up step, follow the procedure outlined below.
 
 •Set up thermal cycler and choose preheat lid option:
 
@@ -773,7 +773,7 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 
 **5** Using a multichannel pipette set at 200 μl remove TWB from beads. Use a small volume pipette to ensure removal of residual TWB before proceeding.
 
-**NOTE:**_Removal of TWB is crucial, as it can impede PCR. However, any foam remaining on the wells will not negatively impact the library._
+**NOTE:** _Removal of TWB is crucial, as it can impede PCR. However, any foam remaining on the wells will not negatively impact the library._
 
 **6** Remove from the magnet and immediately add 40 μl of PCR master mix to each sample.
 
@@ -810,9 +810,8 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 
 **11** Centrifuge plate for at 280 x g for 1 minute.
 
-**NOTE: This is a safe stopping point. The plate may be sealed with Microseal B or equivalent and stored at 2°C to 8°C for up to 3 days. ** If you choose to continue, please proceed to Library PCR Clean-Up on page 22.
+**NOTE: This is a safe stopping point. The plate may be sealed with Microseal B or equivalent and stored at 2°C to 8°C for up to 3 days.** If you choose to continue, please proceed to Library PCR Clean-Up.
 
-**SAFE STOPPING POINT** If you do not immediately proceed to Library PCR Clean-Up on page **22** _,_ seal plate with an adhesive seal and store it at 2° to 8°C for up to a week.
 
 
 
@@ -840,7 +839,7 @@ This step uses Sample purification beads to clean up the final library before qu
 
     •Thaw RSB at room temperature and vortex to mix.
 
-    • Bring the SPB to room temperature- **wait at least 30 minutes**. Once at room temperature, vortex and invert the beads several times to re-suspend any particles that may have settled. Ensure magnetic beads are well (evenly) distributed before adding them to samples.
+    • Bring the SPB to room temperature- wait at least 30 minutes. Once at room temperature, vortex and invert the beads several times to re-suspend any particles that may have settled. Ensure magnetic beads are well (evenly) distributed before adding them to samples.
 
     NOTE: Proceed very cautiously during this procedure and take your time to ensure as little bubble formation as possible.
 
@@ -867,7 +866,7 @@ This step uses Sample purification beads to clean up the final library before qu
 
 **NOTE:** _It is recommended to increase the number of samples 3-4 to ensure sufficient volume of master mix._
 
-3. **Place** sample plate on the magnet for 5 minutes (or until beads have formed a tight pellet).
+3. Place sample plate on the magnet for 5 minutes (or until beads have formed a tight pellet).
 
 
 4. Transfer 45 μl of supernatant (now containing the DNA) to new deep well plate.
@@ -999,7 +998,7 @@ Sample Preparation D5000 ScreenTape Assay
 
 2. Vortex mix before use.
 
-3. Prepare ladder by mixing 10 μl D5000 Sample Buffer (green lid) with 1 μl D5000 Ladder (yellow lid) in a tube strip.
+3. Prepare ladder by mixing 2 μl D5000 Sample Buffer (green lid) with 2 μl D5000 Ladder (yellow lid) in a tube strip.
 
 4. Prepare sample by mixing 10 μl D5000 Sample Buffer (green lid) with 1 μl DNA sample in different tube strips.
 
@@ -1017,14 +1016,14 @@ Sample Analysis
 
 **SAFE STOPPING POINT**
 
-If you do not plan to proceed to _Part II Qubit Flurometer 3.0 dsDNA HS Assay_ on page _27_, leave your sample in 4°C.
+If you do not plan to proceed to _Part II Qubit Flurometer 3.0 dsDNA HS Assay_, leave your sample in 4°C.
 
 
 **Part II (continued): Procedure for determining library concentration**
 
 Qubit Fluorometer 3.0 dsDNA HS Assay
 
-This SOP format was adapted from the Qubit® dsDNA HS Assay Kits [protocol](https://tools.thermofisher.com/content/sfs/manuals/Qubit_dsDNA_HS_Assay_UG.pdf)from Life Technologies.
+This SOP format was adapted from the Qubit® dsDNA HS Assay Kits [protocol](https://tools.thermofisher.com/content/sfs/manuals/Qubit_dsDNA_HS_Assay_UG.pdf) from Life Technologies.
 
 Consumables
 
@@ -1331,16 +1330,16 @@ Illumina uses a green laser or LED to sequence G/T and a red laser or LED to seq
 | **1‐plex (no pooling)** | Any Index 1 adapter | Any Index 2 adapter |
 | **2‐plex** | • [option 1] N702 and N701• [option 2] N702 and N704 |
 | **3‐plex** | • [option 1] N701, N702, and N704• [option 2] N703, N705, and N706 |
-| **4‐ or 5‐plex** | • [option 1] N701, N702, N704, and any other Index 1 adapter• [option 2] N703, N705, N706, and any other Index 1 adapter |
+| **4‐ or 5‐plex** | • [option 1] N701, N702, N704, and any other Index 1 adapter • [option 2] N703, N705, N706, and any other Index 1 adapter |
 | **6‐plex** | N701, N702, N703, N704, N705, and N706 |
 
 **Table 17** Sequencing Workflow: Single or Dual Index
 
 | _Plex_ | _Index 1 (i7) Selection_ | _Index 2 (i5) Selection_ |
 | --- | --- | --- |
-| **7–12 plex, Dual Index** | • [option 1] N701, N702, N704, andany other Index 1 adapter (asneeded)• [option 2] N703, N705, N706, andany other Index 1 adapter (asneeded) | • [option 1] S501 and S502• [option 2] S503 and S504• [option 3] S505 and S506 |
-| **7–12 plex, Single Index (96 sample****Nextera Index adapter kit)** | • N701–N706 and any other Index 1adapter (as needed) | • Any Index 2 (i5) adapter |
-| **Greater than 12‐plex** | N701, N702, N703, N704, N705,N706, and any other Index 1 adapter | • [option 1] S501, S502, and anyother Index 2 adapter (as needed)• [option 2] S503, S504, and anyother Index 2 adapter (as needed)• [option 3] S505, S506, and anyother Index 2 adapter (as needed) |
+| **7–12 plex, Dual Index** | • [option 1] N701, N702, N704, and any other Index 1 adapter (as needed)• [option 2] N703, N705, N706, andany other Index 1 adapter (as needed) | • [option 1] S501 and S502 • [option 2] S503 and S504• [option 3] S505 and S506 |
+| **7–12 plex, Single Index (96 sample Nextera Index adapter kit)** | • N701–N706 and any other Index 1adapter (as needed) | • Any Index 2 (i5) adapter |
+| **Greater than 12‐plex** | N701, N702, N703, N704, N705,N706, and any other Index 1 adapter | • [option 1] S501, S502, and anyother Index 2 adapter (as needed) • [option 2] S503, S504, and anyother Index 2 adapter (as needed) • [option 3] S505, S506, and anyother Index 2 adapter (as needed) |
 
 These strategies represent only some of the acceptable combinations. Alternatively, check the real sequences of each index in the tables to make sure that each base position has a signal in both color channels for the index read:
 
