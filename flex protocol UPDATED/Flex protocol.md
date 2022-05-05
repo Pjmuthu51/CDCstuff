@@ -14,7 +14,7 @@
 
 • Electrophoresis 
 
-• SequalPrep Normalization and Purification
+• Library Clean-Up
 
 • Tagment Genomic DNA and Tagmentation Clean-Up 
 
@@ -41,11 +41,11 @@ This protocol format was adapted from the 16S Metagenomics Sequencing Library Pr
 ## **Introduction and General Workflow**
 
 
-Human malaria is caused by four parasite species called *Plasmodium falciparum (Pf), P. vivax (Pv), P. ovale (Po)* and *P. malariae (Pm)*. Two of these, *Pf* and *Pv*, pose the greatest threat to global public health. About 3.2 billion people, half of the world's population, are at risk for malaria. In 2020, 85 nations had ongoing malaria transmission and annually 241 million people suffer from malaria, causing an estimated 627,000 deaths. In the U.S., an estimated 1,500 - 2,000 cases of malaria are imported annually. One of the greatest public health challenges for malaria control and elimination is the threat of drug resistant *Pf* parasites.
+Human malaria is caused by four parasite species called *Plasmodium falciparum (Pf), P. vivax (Pv), P. ovale (Po)* and *P. malariae (Pm)*. Two of these, *Pf* and *Pv*, pose the greatest threat to global public health. About 3.2 billion people, half of the world's population, are at risk for malaria. In 2020, 85 nations had ongoing malaria transmission and annually 241 million cases of malaria, causing an estimated 627,000 deaths. In the U.S., an estimated 1,500 - 2,000 cases of malaria are imported annually. One of the greatest public health challenges for malaria control and elimination is the threat of drug resistant *Pf* parasites.
 
 Our previously effective anti-malarial treatments, chloroquine (CQ) and sulfadoxine/pyrimethamine (SP), are ineffective in many regions. Even more alarming, resistance to our last effective class of anti-malarial drugs, called artemisinins, has now emerged and spread in Southeast Asia — threatening malaria control and prevention programs globally.
 
-Identifying and tracking drug resistance are critical for providing appropriate malaria prophylaxis and treatment guidelines. Molecular markers of resistance are available for several anti-malarial drugs, including artemisinins. Surveillance using molecular markers provides a robust system for the detection and tracking of resistant malaria parasites.
+Identifying and tracking drug resistance is critical for providing appropriate malaria prophylaxis and treatment guidelines. Molecular markers of resistance are available for several anti-malarial drugs, including artemisinins. Surveillance using molecular markers provides a robust system for the detection and tracking of resistant malaria parasites.
 
 Below is a table of the major molecular markers and their respective amino acid polymorphisms that are associated with resistance to various anti-malarial treatments.
 
@@ -498,7 +498,7 @@ This step is necessary to ensure successful amplification of amplicons. It is re
 
 **16** Remove the gel from the chamber and take to the gel reading station for analysis.
 
-**17** Once amplification is confirmed, proceed to SequalPrep Normalization.
+**17** Once amplification is confirmed, proceed to Library Clean-Up.
 
 
 ### Library Clean‐Up 
