@@ -1,6 +1,6 @@
 # **Targeted Amplicon Deep Sequencing of Plasmodium falciparum (Pf) molecular markers of resistance**
 
-*Preparing full length genes Pf kelch 13 (k13), Pf chloroquine resistant transporter (crt), Pf multidrug resistant protein 1 (mdr1), Pf bifunctional dihydrofolate reductase-thymidylate synthase (dhfr), Pf dihydropteroate synthase (dhps) mitochondrial genome, Pf s47, and Pfcpmp amplicons for sequencing on the Illumina MiSeq system.*
+*Preparing full length genes Pf kelch 13 (k13), Pf chloroquine resistant transporter (crt), Pf multidrug resistant protein 1 (mdr1), Pf bifunctional dihydrofolate reductase-thymidylate synthase (dhfr), Pf dihydropteroate synthase (dhps), mitochondrial genome cytochrome b, Pf s47, and conserved plasmodium membrane protein (cpmp) amplicons for sequencing on the Illumina MiSeq system.*
 
 • Introduction/General Overview 
 
@@ -99,9 +99,9 @@ Please ensure all the necessary user‐supplied consumables and equipment are av
 | **DNA gel loading dye** | Yakva Scientific 6X Orange-G Gel Loading Buffer #YSG |
 | **Quick-Load 1kb DNA ladder** | NEB Catalog # N0468 |
 | **UltraPure™ 10X TBE Buffer** | Fisher Scientific Catalog #15581-044 |
-| **SequalPrepTMNormalization Plate Kit, 96-well** | ThermoFisher Scientific Catalog # A1051001 |
+| **AMPure XP beads for PCR Purification** | Beckman Coulter Life Sciences, Cat # A63881 |
 | **Illumina DNA Prep library kit** | Illumina, Cat# 20018705 (96 samples), or # 20018704 (24 samples) |
-| **\* Nextera DNA CD Indexes (plate)** | Illumina, Cat # 20018708 (96 samples) or #20018707 (24 samples) |
+| **\*IDT® for Illumina® DNA UD Index kits (plate)** | Illumina, Cat # 20027213 (Index set A), 20027214 (Index set B), 20027215 (Index set C), and 20027216 (Index set D).|
 | **200 Proof Ethanol** | Decon Labs, Inc. Catalog # 2716 |
 | **AlumaSeal II aluminum seals** | Excel Scientific, Inc. Cat # AF100 |
 | **Clear, 8-strip PCR tubes domed caps** | LabSource, Item # T54-203-CS/10PK MFG# - 321-10-062 |
@@ -116,7 +116,7 @@ Please ensure all the necessary user‐supplied consumables and equipment are av
 | **MiSeq Reagent Kit V2 500 cycle kit** | Illumina #MS-102-2003 |
 | **MiSeq Reagent V2 Nano Kit 500 cycle** | Illumina #MS-103-1003 |
 
-**\* If you plan** **to pool >96 samples, you will need the Index Kit Set A, B, C, and D to provide unique multiplex combinations of indices (cat #'s:** **20027213, 20027214, 20027215, 20027216)**
+**\* If you plan to pool >96 samples, you will need the Index Kit Set A, B, C, and D to provide unique multiplex combinations of indices**
 
 
 ### **Table 3** User‐Supplied Equipment
@@ -174,7 +174,9 @@ Reagents: Agarose, DNA loading dye, 1kb DNA ladder, 1X TBE Buffer
 
 Hands on time 30 min / 96 samples; Total time 40+ min / 96 samples 
 
-Reagents: AMPure XP beads, fresh 80% EtOH
+Reagents: AMPure XP beads, fresh 70% EtOH
+
+[protocol](https://bec-techdocs-prod.s3.us-west-2.amazonaws.com/techdoc/files/ifu/en/B37419AB.pdf?AWSAccessKeyId=ASIA2KJI7HMZ6XTB5OMU&Expires=1651861410&Signature=fgNQRKg1dvsVDEvqKlDwPmKcL4U%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEOL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDcw0UFZr3Up7tXMipF%2FV%2FiMjvXFY679wY0mb%2FJILQnowIgIRETFeprqEXOFYlswDNDEDJZIrz4sCBki9BndIaAI%2FoqoQIIq%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgw3MDkyOTI0MDc2MDMiDMJY0wihaEDKXQLBYir1AZCo77nrIZUYcnba0oEaecn0WqqNLEi2hzJnEPILp%2Bu0zgPLL391kRYEAl8YFg5KM%2FbScOfb0es6zWk6i5jartmzMCuIYyFfBFkhSQM8Pgc7S8w94B1077sEVl8cuOPZndir5rAsmhx1AFB%2F3AyuEISnCf947B53KDxRJ4cnnos6fz0PyjjJk4biKXvlwJEmjayjQbfOkw2YpCpjnOcLA5jugBkjFSzPxdE9bxBaouQGhmeh6WhWFOkhVKEsG2r1OZC31IdQiLEWevcQBX84FcKVRhoa%2BiJcG3%2FRKRiZ0CezbxlnI7mAul9anGI9mVnshE2BzVpXMMnA1ZMGOpoBGsgpHcNxWq8xTrnHWSfEVkCNa8yOcV2gUZsStkgrErue%2BSJMnd2jQiDjMnkskn9fTbid%2BCRllzKmf6MdgX1pseJbBX6jmomcJoIQ6GAKFEI8%2BnuefejlEAv4sZ9H1ct38%2FmBf%2FKVAfWqDT09vT6yHvKVyVv4CCFHqEan3ka3H9kxr9uw3F%2FzRU735oSvrvVLgxUKqvknh%2B6ypA%3D%3D)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](2021-12-08-21-17-16.png)
 
@@ -368,7 +370,7 @@ User‐defined forward and reverse primers are used to amplify templates from ge
 
 **1** Set up the following reaction of water, GC Buffer, dNTPs, primers, HF Taq Phusion, and DNA in the order given in **Tables 6.1 – 6.6:**
 
-- Calculate appropriate volumes for mastermix based on number of samples to be included in reaction; multiply each reagent volume times the total number of samples + 1 (for user pipetting errors)
+- Calculate appropriate volumes for mastermix based on number of samples to be included in reaction; multiply each reagent volume times the total number of samples + 10% pf total number of samples (for user pipetting errors)
 - Final volume of master mix is given in **Tables 6.1 - 6.6**
 
 **NOTE:**  _If the number of samples is >5, make a mastermix for at least 6 samples to avoid pipetting volume errors._
@@ -507,13 +509,13 @@ This step uses AMPure XP beads to clean up the final library before quantificati
 
 #### Consumables
 
-**Table 11.**  **PCR Purification #2 Consumables**
+**Table 11.**  **PCR Amplicon Purification Consumables**
 
 | Item  | **Quantity**  | Storage  |
 | --- | --- | --- |
 | RSB (Resuspension Buffer) | 52.5 μl per sample  | -15° to -25°C (after initial thaw, can keep at 2° to 8°C  |
 | AMPure XP beads | 90 μl per 50 μl of sample  | 2° to 8°C  |
-| Freshly Prepared 80% Ethanol (EtOH)  | 400 μl per sample  | Room temperature  |
+| Freshly Prepared 70% Ethanol (EtOH)  | 400 μl per sample  | Room temperature  |
 | 96‐well 0.2 ml PCR plate  | 1 plate  |   |
 | [Optional] Microseal 'B' film  |   |   |
 | 96‐well MIDI plate | 1 plate  |   |
@@ -530,7 +532,7 @@ This step uses AMPure XP beads to clean up the final library before quantificati
 
 NOTE: Proceed very cautiously during this procedure and take your time.
 
-NOTE: 80% ethanol is hygroscopic. That is, when opened the ethanol will both evaporate and absorb water over time. Re-use eventually will be at a lower concentration. There is also miscibility involved with ethanol and water. For example, measuring out 80 mL of ethanol and topping off to 100 mL with water will generate ~65% ethanol. Measuring 80 mL ethanol and 20 mL water separately, then combining them will generate ~95 mL of 80% ethanol. Make sure to use molecular biology grade water (DNAse, RNase and Protease free).
+NOTE: 70% ethanol is hygroscopic. That is, when opened the ethanol will both evaporate and absorb water over time. Re-use eventually will be at a lower concentration. There is also miscibility involved with ethanol and water. For example, measuring out 80 mL of ethanol and topping off to 100 mL with water will generate ~65% ethanol. Measuring 80 mL ethanol and 20 mL water separately, then combining them will generate ~95 mL of 70% ethanol. Make sure to use molecular biology grade water (DNAse, RNase and Protease free).
 
 #### Procedure
 
@@ -540,7 +542,7 @@ NOTE: 80% ethanol is hygroscopic. That is, when opened the ethanol will both eva
 
 **NOTE:** Transfer the sample to a 96‐well MIDI plate if planning to use a shaker for mixing. If mixing by pipette, the sample can remain in the 96‐well PCR plate.
 
-3. Gently shake the AMPure XP beads for 30 seconds to make sure that the beads are evenly dispersed. Add an appropriate volume of beads to a trough depending on the number of samples being processed and desired fragment selection. Smaller amplicons in Nextera XT library preps typically yield smaller insert size ranges.
+3. Gently shake the AMPure XP beads for 30 seconds to make sure that the beads are evenly dispersed. Add an appropriate volume of beads to a trough depending on the number of samples being processed and desired fragment selection. The Illumina DNA Prep library kits typically yield insert sizes around the 500bp range.
 
 To maximize recovery of smaller fragments from the bead cleanup step, use the following conditions:
 
@@ -548,7 +550,7 @@ To maximize recovery of smaller fragments from the bead cleanup step, use the fo
 
 
 
-4. Using a multichannel pipette, add 90μl of AMPure XP beads to each well of the Amplicon PCR plate. Change tips between columns.
+4. Using a multichannel pipette, add an appropriate volume of beads per sample based on your input size. Change tips between columns.
 
 5. Gently pipette entire volume up and down 10 times if using a 96‐well PCR plate, or seal plate and shake at 1800 for 2 minutes if using a MIDI plate. Change tips after each column. The mixture should appear homogeneous.
 
@@ -560,7 +562,7 @@ To maximize recovery of smaller fragments from the bead cleanup step, use the fo
 
 **DO NOT disturb the ring of separated magnetic beads.**
 
-9. With the Library amplification plate on the magnetic stand, wash the beads with freshly prepared 80% ethanol as follows:
+9. With the Library amplification plate on the magnetic stand, wash the beads with freshly prepared 70% ethanol as follows:
 
         A. Using a multichannel pipette, add 200 μl of freshly prepared 80% ethanol to each sample well.
 
@@ -580,7 +582,7 @@ To maximize recovery of smaller fragments from the bead cleanup step, use the fo
 
         D. Use a P20 multichannel pipette with fine pipette tips to remove excess ethanol.
 
-11. With the Library amplification plate still on the magnetic stand, allow the beads to air‐dry for 15 minutes.
+11. With the library amplification plate still on the magnetic stand, allow the beads to air-dry for at least 3 minutes, then check every 2 minutes until no ethanol remains.
 
 **NOTE: make sure not to over dry the beads. Bead pellets will appear cracked if over dried.**
 
@@ -593,6 +595,8 @@ To maximize recovery of smaller fragments from the bead cleanup step, use the fo
 15. Place the plate back on the magnetic stand for 2 minutes or until the supernatant has cleared.
 
 16. Using a multichannel pipette, carefully transfer 50 μl of the supernatant from the Library amplification plate to a new 96‐well PCR plate. Change tips between samples to avoid cross‐contamination.
+
+17. Pool each drug resistance gene (purified PCR amplicon) for each sample in equal volumes until the volume reaches at least 30ul. For example, if you pool 5ul of each amplicon (cytob, k13, md1, dhfr, dhps, crt, pfs47, and cpmp), you will have 40ul of pooled, purified amplicon product ready to complete the tagmentation step.
 
 
 
@@ -607,7 +611,7 @@ If you do not plan to proceed to *Tagment Genomic DNA and Tagmentation Clean-Up*
 
 The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. This process fragments and tags the DNA with adapter sequences. The Post Tagmentation Clean up step washes the adapter-tagged DNA on the BLT before PCR amplification.
 
-![](2022-05-02-01-09-10.png)
+![](2022-05-09-19-10-01.png)
 
 #### Consumables
 
