@@ -1,6 +1,6 @@
 # **Targeted Amplicon Deep Sequencing of Plasmodium falciparum (Pf) molecular markers of resistance**
 
-*Preparing full length genes Pf kelch 13 (k13), Pf chloroquine resistant transporter (crt), Pf multidrug resistant protein 1 (mdr1), Pf bifunctional dihydrofolate reductase-thymidylate synthase (dhfr), Pf dihydropteroate synthase (dhps), mitochondrial genome cytochrome b, Pf s47, and conserved plasmodium membrane protein (cpmp) amplicons for sequencing on the Illumina MiSeq system.*
+*Purpose: To prepare full length gene amplicons of Pf kelch 13 (k13), Pf chloroquine resistant transporter (crt), Pf multidrug resistant protein 1 (mdr1), Pf bifunctional dihydrofolate reductase-thymidylate synthase (dhfr), Pf dihydropteroate synthase (dhps), mitochondrial genome cytochrome b, Pf s47, and conserved plasmodium membrane protein (cpmp) for sequencing on the Illumina MiSeq.*
 
 • Introduction/General Overview 
 
@@ -16,9 +16,9 @@
 
 • Library Clean-Up
 
-• Tagment Genomic DNA and Tagmentation Clean-Up 
+• Tagmentation of PCR Amplicon and Tagmentation Clean Up​ 
 
-• Amplification of Tagmented DNA (Index PCR) 
+• Amplification of Tagmented DNA (Library Indexing) 
 
 • Library PCR Clean up
 
@@ -34,16 +34,16 @@ This document provides information for an application for Illumina technology th
 
 
 
-October 2nd, 2021 version 4.0 modified by Eldin Talundzic ([etalundzic@cdc.gov)](mailto:etalundzic@cdc.gov))
+May 19th, 2022 version 4.0 modified by Eldin Talundzic ([etalundzic@cdc.gov)](mailto:etalundzic@cdc.gov)), Pragat Muthu, Julia Kelley and Marko Bajic.
 
 This protocol format was adapted from the 16S Metagenomics Sequencing Library Preparation [protocol](http://support.illumina.com/documents/documentation/chemistry_documentation/16s/16s-metagenomic-library-prep-guide-15044223-b.pdf) from Illumina, and the [Illlumina DNA Prep Reference Guide](https://support.illumina.com/content/dam/illumina-support/documents/documentation/chemistry_documentation/illumina_prep/illumina-dna-prep-reference-guide-1000000025416-09.pdf).
 
 ## **Introduction and General Workflow**
 
 
-Human malaria is caused by four parasite species called *Plasmodium falciparum (Pf), P. vivax (Pv), P. ovale (Po)* and *P. malariae (Pm)*. Two of these, *Pf* and *Pv*, pose the greatest threat to global public health. About 3.2 billion people, half of the world's population, are at risk for malaria. In 2020, 85 nations had ongoing malaria transmission and annually 241 million cases of malaria, causing an estimated 627,000 deaths. In the U.S., an estimated 1,500 - 2,000 cases of malaria are imported annually. One of the greatest public health challenges for malaria control and elimination is the threat of drug resistant *Pf* parasites.
+Human malaria is caused by four parasite species: *Plasmodium falciparum (Pf), P. vivax (Pv), P. ovale (Po)* and *P. malariae (Pm)*. Two of these, *Pf* and *Pv*, pose the greatest threat to global public health. About 3.2 billion people, half of the world's population, are at risk for malaria. In 2020, there were an estimated 241 million malaria cases in 85 malaria endemic countries, causing an estimated 627,000 deaths.. In the U.S., an estimated 1,500 - 2,000 cases of malaria are imported annually. One of the greatest public health challenges for malaria control and elimination is the threat of drug resistant *Pf* parasites.
 
-Our previously effective anti-malarial treatments, chloroquine (CQ) and sulfadoxine/pyrimethamine (SP), are ineffective in many regions. Even more alarming, resistance to our last effective class of anti-malarial drugs, called artemisinins, has now emerged and spread in Southeast Asia — threatening malaria control and prevention programs globally.
+Previously effective anti-malarial treatments, chloroquine (CQ) and sulfadoxine/pyrimethamine (SP), are ineffective in many regions. Even more alarming, resistance to the least effective class of anti-malarial drugs, called artemisinins, has now emerged and spread in Southeast Asia, threatening malaria control and prevention programs globally.
 
 Identifying and tracking drug resistance is critical for providing appropriate malaria prophylaxis and treatment guidelines. Molecular markers of resistance are available for several anti-malarial drugs, including artemisinins. Surveillance using molecular markers provides a robust system for the detection and tracking of resistant malaria parasites.
 
@@ -53,7 +53,7 @@ Below is a table of the major molecular markers and their respective amino acid 
 
 
 
-![](2022-03-05-17-32-55.png)
+![](2022-05-20-00-46-56.png)
 
 **\*C350R** _results in a reduction of chloroquine resistance._
 
@@ -70,7 +70,7 @@ Please ensure all the necessary user‐supplied consumables and equipment are av
 | --- | --- |
 | **Non-powdered sterile gloves** | General lab supplier |
 | **Laboratory coat** | General lab supplier |
-| **1.7ml microcentrifuge tubes** | General lab supplier |
+| **1.7 ml microcentrifuge tubes** | General lab supplier |
 | **10 μl barrier pipette tips** | General lab supplier |
 | **10 μl multichannel pipettes** | General lab supplier |
 | **10 μl single channel pipettes** | General lab supplier |
@@ -240,7 +240,7 @@ Method: MaRS analysis pipeline
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](2021-12-08-21-17-16.png)
 
 
-Standardized SNPs reports generated
+**Standardized SNPs reports generated**
 
 ## **PET-PCR Sample QC**
 
@@ -429,17 +429,19 @@ NOTE: If experiencing issues with amplifying the full-length mitochondrial genom
 
 **\*Primers adapted from: SC, Carlton JM**. 2016. A Method for Amplicon Deep Sequencing of Drug Resistance Genes in Plasmodium falciparum Clinical Isolates from India. J Clin Microbiol 54:1500–1511.
 
-##### **Table 6.7 _Pfs47_**
+##### **Table 6.7 _Pfs47_- Geographic Determination**
 ![](2021-12-08-23-24-08.png)
 
 **Primers:  Pfs47_F Sequence (5' to 3'):** *ATGTGTATGGGAAGAATGATCAG* **; Pfs47_R Sequence (5' to 3'):**  *TCATATGCTAACATACATGTAAAAAATTAC*
 
-**SAFE STOPPING POINT** If you do not immediately proceed to Electrophoresis, seal plate with adhesive seal and store it at 2° to 8°C for up to a week.
 
-##### Table 6.8 *Pfcpmp*
+
+##### Table 6.8 *Pfcpmp - Recrudescence vs Reinfection*
 ![](2021-12-08-23-26-15.png)
 
 **Primers:  Pfcpmp_F Sequence (5' to 3'):** *GTCATTAAAATTTATGGATTATATATGG* **; Pfcpmp_R Sequence (5' to 3'):** *GTTACTATCCAAGATCGTTAATATC*
+
+**SAFE STOPPING POINT** If you do not immediately proceed to Electrophoresis, seal plate with adhesive seal and store it at 2° to 8°C for up to a week.
 
 ### **Electrophoresis**
 
@@ -454,7 +456,7 @@ This step is necessary to ensure successful amplification of amplicons. It is re
 | Item | Quantity | Storage |
 | --- | --- | --- |
 | **Agarose** | 1g (for a 1% gel) | Room temperature |
-| **1x solution of 10X TBE Buffer and deionized water** | 100mL (for a 1% gel) | Room temperature |
+| **1x solution of 10X TBE Buffer and deionized water** | 100 mL (for a 1% gel) | Room temperature |
 | **Nucleic Acid Gel Stain** | 5 μl per 100mL of buffer | Room temperature |
 | **Orange Dye** | 2 μl per 8 μl PCR product | Room temperature |
 
@@ -464,43 +466,43 @@ This step is necessary to ensure successful amplification of amplicons. It is re
 
 #### Procedure
 
-**1** Choose an Erlenmeyer flask that is 2-4 times the volume of the solution and place a stirring rod into the flask.
+1. Choose an Erlenmeyer flask that is 2-4 times the volume of the solution and place a stirring rod into the flask.
 
-**2** Weigh the agar to the desired concentration
+2. Weigh the agar to the desired concentration
 
 **-** For a 1% agarose gel, 1.0 gram of agarose + 100mL of buffer will fill a medium gel chamber
 
 **-** For a 1.5% agarose gel, 1.5 gram of agarose + 100mL of buffer will fill a medium gel chamber
 
-**3** Add the appropriate amount of buffer for the desired concentration.
+3. Add the appropriate amount of buffer for the desired concentration.
 
-**4** Dissolve the agar in the microwave by heating the solution on high power until it comes to a boil. Watch the solution closely; **DO NOT** allow solution to boil over.
+4. Dissolve the agar in the microwave by heating the solution on high power until it comes to a boil. Watch the solution closely; **DO NOT** allow solution to boil over.
 
-**5** Remove the flask with pot holders and gently swirl to re-suspend any settled agar.
+5. Remove the flask with pot holders and gently swirl to re-suspend any settled agar.
 
-**6** Repeat steps 4-5 until all the agar is dissolved (no transparent agarose clumps should be present).
+6. Repeat steps 4-5 until all the agar is dissolved (no transparent agarose clumps should be present).
 
-**7** Allow the solution to cool on a stirring plate until you can comfortably hold the flask with your hands.
+7. Allow the solution to cool on a stirring plate until you can comfortably hold the flask with your hands.
 
-**8** Using a 10 μlpipette, add nucleic acid gel stain to the solution. For every 100mL of buffer, add 5 μl of gel stain. Swirl solution to mix, making sure as little bubbles as possible are created.
+8. Using a 10 μl pipette, add nucleic acid gel stain to the solution. For every 100 mL of buffer, add 5 μl of gel stain. Swirl solution to mix, making sure as little bubbles as possible are created.
 
-**9** Pour the cooled solution into the gel form- ensure no bubbles are present. Place the comb into the gel and allow the gel to sit undisturbed for at least 15 minutes or until the gel has become firm (the color will change from clear to slightly milky in color).
+9. Pour the cooled solution into the gel form- ensure no bubbles are present. Place the comb into the gel and allow the gel to sit undisturbed for at least 15 minutes or until the gel has become firm (the color will change from clear to slightly milky in color).
 
-**10** When gel has solidified, ensure the wells are aligned with the black (negative) nodes on the electrophoresis chamber and fill with buffer until it covers about a centimeter above the gel. Remove the comb.
+10. When gel has solidified, ensure the wells are aligned with the black (negative) nodes on the electrophoresis chamber and fill with buffer until it covers about a centimeter above the gel. Remove the comb.
 
-**11** Combine a mixture of 2 μl of orange dye and 8 μl of each sample and load 8uL of that mixture into each well.
+11. Combine a mixture of 2 μl of orange dye and 8 μl of each sample and load 8uL of that mixture into each well.
 
-**12** Be sure to include reference ladders (no orange dye necessary).
+12. Be sure to include reference ladders (no orange dye necessary).
 
-**13** Place the lid on the chamber box and connect the black node to the negative terminal and the red node to the positive terminal. Turn on the power supply and adjust the voltage to 100-130 volts.
+13. Place the lid on the chamber box and connect the black node to the negative terminal and the red node to the positive terminal. Turn on the power supply and adjust the voltage to 100-130 volts.
 
-**14** Run gel for about 45 minutes -until the samples nearly reach the end of the gel. **DO NOT** allow samples to run off the gel.
+14. Run gel for about 45 minutes -until the samples nearly reach the end of the gel. **DO NOT** allow samples to run off the gel.
 
-**15** Turn off the power supply, disconnect the electrodes, and remove the lid.
+15. Turn off the power supply, disconnect the electrodes, and remove the lid.
 
-**16** Remove the gel from the chamber and take to the gel reading station for analysis.
+16. Remove the gel from the chamber and take to the gel reading station for analysis.
 
-**17** Once amplification is confirmed, proceed to Library Clean-Up.
+17. Once amplification is confirmed, proceed to Library Clean-Up.
 
 
 ### Library Clean‐Up 
@@ -584,7 +586,7 @@ To maximize recovery of smaller fragments from the bead cleanup step, use the fo
 
 11. With the library amplification plate still on the magnetic stand, allow the beads to air-dry for at least 3 minutes, then check every 2 minutes until no ethanol remains.
 
-**NOTE: make sure not to over dry the beads. Bead pellets will appear cracked if over dried.**
+**NOTE: Make sure not to over dry the beads. Bead pellets will appear cracked if over dried.**
 
 12. Remove the Amplicon PCR plate from the magnetic stand. Using a multichannel pipette, add 52.5 μl RSB to each well of the Amplicon PCR plate.
 
@@ -596,7 +598,7 @@ To maximize recovery of smaller fragments from the bead cleanup step, use the fo
 
 16. Using a multichannel pipette, carefully transfer 50 μl of the supernatant from the Library amplification plate to a new 96‐well PCR plate. Change tips between samples to avoid cross‐contamination.
 
-17. Pool each drug resistance gene (purified PCR amplicon) for each sample in equal volumes until the volume reaches at least 30ul. For example, if you pool 5ul of each amplicon (cytob, k13, md1, dhfr, dhps, crt, pfs47, and cpmp), you will have 40ul of pooled, purified amplicon product ready to complete the tagmentation step.
+17. Pool each drug resistance gene (purified PCR amplicon) for each sample in equal volumes until the volume reaches at least 30ul. For example, if you pool 5 ul of each amplicon (cytob, k13, md1, dhfr, dhps, crt, pfs47, and cpmp), you will have 40 ul of pooled, purified amplicon product ready to complete the tagmentation step.
 
 
 
@@ -623,13 +625,13 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 | **BLT (Bead -Linked Transposome)** | 10 μl per sample | 2° to 8°C |
 | **TSB (Tagment Stop Buffer)** | 10 μl per sample | 15°C to 30°C |
 | **TWB (Tagment Wash Buffer)** | 300 μl per sample | 15°C to 30°C |
-| **1.7mL microcentrifuge tubes** | Varies | Room temperature |
+| **1.7 mL microcentrifuge tubes** | Varies | Room temperature |
 | **96-well 0.2 ml PCR plate** | Varies | Room temperature |
 | **Microseal "A" and "B" film** | Varies | Room temperature |
 
 #### Preparation
 
-•If not completed already, **carefully** pool 5uL of each gene's corresponding sample into the same well of a half skirt plate before continuing
+•If not completed already, **carefully** pool 5 uL of each gene's corresponding sample into the same well of a half skirt plate before continuing
 
 •Add appropriate volume of DNA as obtained from gDNA dilution calculator to each well of a 96-well PCR plate so that the total input amount (100 - 1000 ng) is within the desired range. If DNA volume <30 μl, add nuclease-free molecular grade water to the DNA samples to bring the total volume to 30 μl. Add DNA to the molecular-grade water and mix well by gently pipetting approximately 5-10 times
 
@@ -671,7 +673,7 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 | **TB1** | 10 |
 | **BLT** | 10 |
 
-2. Vortex the tagmentation master mix well .
+2. Vortex the tagmentation master mix well.
 
 3. Add 20 μl of master mix to each sample well.
 
@@ -693,13 +695,13 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 
 3. Add 10 μl of TSB to each sample with a multichannel pipet.
 
-4. Pipet gently 10 times to mix and re-suspend the beads using a multichannel pipet set at 40 μl
+4. Pipet gently 10 times to mix and re-suspend the beads using a multichannel pipet set at 40 μl.
 
 5. Seal the plate with Microseal A (or equivalent) and incubate the plate on the pre-programmed thermal cycler setting "Flex 2" with volume set to 60 μl and lid heated option at 100°C:
 
-     37°C for 15 min
+            37°C for 15 min
 
-     10°C for ∞
+            10°C for ∞
 
     NOTE: This is not a recommended stopping point in the procedure and it is recommended to proceed to the washing steps after samples have reached 10°C.
 
@@ -744,14 +746,14 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 | Item | Quantity | Storage |
 | --- | --- | --- |
 | **EPM (Enhanced PCR Mix)** | 20 μl per sample | -15° to -25°C |
-| **Index 1 adapters (plate) (Cat# 20018708 (96 samples) or #20018707 (24 samples))** | 10 μl per sample | -15° to -25°C |
+| **Index 1 adapters (plate) (Cat #20018708 (96 samples) or #20018707 (24 samples))** | 10 μl per sample | -15° to -25°C |
 | **Nuclease -free water** | 20 μl per sample | Room temperature |
 | **1.7mL microcentrifuge tube** | Varies | Room temperature |
 | **Microseal "A" film** | Varies | Room temperature |
 
 #### Preparation
 
-•Using the samples suspended in the 100μl of TWB from the Post Tagmentation Clean-Up step, follow the procedure outlined below.
+•Using the samples suspended in the 100 μl of TWB from the Post Tagmentation Clean-Up step, follow the procedure outlined below.
 
 •Set up thermal cycler and choose preheat lid option:
 
@@ -763,11 +765,11 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 
       • 5 cycles of:
 
-        — 98°C for 45 seconds
+        98°C for 45 seconds
 
-       — 62°C for 30 seconds
+        62°C for 30 seconds
 
-       — 68°C for 2 minutes
+        68°C for 2 minutes
 
      • 68°C for 1 minute
 
@@ -784,7 +786,7 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 | **EPM** | 20 |
 | **Molecular grade water** | 20 |
 
-**NOTE:**_It is recommended to increase number of samples during master mix calculation by 1-2 to ensure sufficient master mix volume_.
+**NOTE:** _It is recommended to increase number of samples during master mix calculation by 1-2 to ensure sufficient master mix volume_.
 
 3. Vortex and quick spin the PCR master mix.
 
@@ -811,21 +813,21 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 
 10. Seal the plate with Microseal A (or equivalent) and place the plate on the pre-programmed thermal cycler setting "Flex 3" with volume set to 50 μl and lid heated option at 100°C:
 
-    • 68°C for 3 minutes
+         • 68°C for 3 minutes
 
-    • 98°C for 3 minutes
+         • 98°C for 3 minutes
 
-    • 5 cycles of:
+        • 5 cycles of:
 
-      — 98°C for 45 seconds
+           98°C for 45 seconds
 
-      — 62°C for 30 seconds
+           62°C for 30 seconds
 
-      68°C for 2 minutes
+        68°C for 2 minutes
 
-    • 68°C for 1 minute
+        • 68°C for 1 minute
 
-    • Hold at 10°C
+         • Hold at 10°C
 
 11. Centrifuge plate for at 280 x g for 1 minute.
 
@@ -868,7 +870,7 @@ This step uses Sample purification beads to clean up the final library before qu
 | --- | --- | --- |
 | **100% ethanol** | 0.4 | 8ml |
 | **Molecular grade water** | 0.1 | 2ml |
- |
+ 
 
 **NOTE:** 80% ethanol is hygroscopic. That is, when opened the ethanol will both evaporate and absorb water over time. Re-use eventually will be at a lower concentration. There is also miscibility involved with ethanol and water. For example, measuring out 80 mL of ethanol and topping off to 100 mL with water will generate ~65% ethanol. Measuring 80 mL ethanol and 20 mL water separately, then combining them will generate ~95 mL of 80% ethanol. Make sure to use molecular biology grade water (DNAse, RNase and Protease free).
 
@@ -957,7 +959,7 @@ It is important to consider library size when preparing samples for cluster gene
 
 **Library Denaturing and MiSeq Sample Loading**
 
-![](2021-12-15-00-11-51.png)
+![](2022-05-20-00-48-50.png)
 
 #### Library Pooling, Quantification, and Normalization
 
@@ -984,9 +986,12 @@ DNA Concentration in nM
 
 After determining the fragment size and concentration of your pooled product, you will calculate the DNA concentration in nM, based on the size of DNA amplicons as determined by an Agilent Technologies 2100 Bioanalyzer trace and concentration by Qubit:
 
-![](![Shape14](RackMultipart20211206-4-h3p21n_html_c5a20749aaeb1a6b.gif).png)
+        (concentration in ng/μl) * (10^6) / (660g/mol) * (average library size) = concentration in nM
 
-![](2021-12-15-20-17-46.png)
+        For example: 
+
+        (15 ng/μl) * (10^6) / (660g/mol) * (500bp) = 45 nM
+
 
 
 **Part II (continued): Procedure for determining fragment size**
@@ -1076,7 +1081,7 @@ Standard and Sample Preparation
 
 1. Prepare the tubes:
 
-    A. Set up two (2) 0.5-mL tubes for standards, and the required number of tubes for samples.
+    A. Set up two 0.5-mL tubes for standards, and the required number of tubes for samples.
 
    Note Use only the thin-wall, clear, 0.5-mL PCR tubes (described in **Table 2** User‐Supplied Consumables)
 
@@ -1087,7 +1092,7 @@ Standard and Sample Preparation
     A. Prepare sufficient Qubit working solution to accommodate all standards and samples by diluting the Qubit dsDNA HS Reagent 1:200 in Qubit dsDNA HS Buffer.
 
     - 1 μl Qubit dsDNA HS Reagent + 199 μl Qubit dsDNA HS Buffer
-    - For example, for 8 samples, prepare enough working solution for the samples and 2 standards: ~200 μl per tube in 10 tubes yields 2 mL of working solution (10 μl of Qubit reagent plus 1990 μl of Qubit buffer).
+    - For example, for 8 samples, prepare enough working solution for the samples and two standards: ~200 μl per tube in 10 tubes yields 2 mL of working solution (10 μl of Qubit reagent plus 1990 μl of Qubit buffer).
 
 3. Prepare the standards:
 
@@ -1162,7 +1167,7 @@ Consumables
 | **MiSeq v2 reagent cartridge** | 1 cartridge | -15° to -25°C |
 | **1.7 ml microcentrifuge tubes (screw cap recommended)** | 3 tubes |
 | **2.5 L ice bucket** |
- |
+
  
 **Preparation**
 
@@ -1217,18 +1222,20 @@ Consumables
 
 **Quick Review/Guide for denaturing 4nM library:**
 
-![](2022-01-13-20-06-06.png)
+![](2022-05-20-00-53-25.png)
 
 **NOTE: If you have to start with a lower concentration library, follow the below protocol for denaturing a 2nM library.**
 
 **Quick Review/Guide for denaturing 2nM library:**
 
-![](2022-01-13-20-06-32.png)
+![](2022-05-20-00-55-18.png)
 
 **Dilution chart for 10pM library:**
 
-![](2022-01-13-20-07-11.png)
-
+| **Final Concentration** | 6pM | 8pM |10pM |
+| --- | --- | --- | --- |
+| **10pM denatured library** | 360 μl|	480 μl | 600 μl	|
+| **Pre-chilled HTI** |240 μl |	120 μl |	0 μl|
 
 **Dilute Denatured DNA**
 
@@ -1324,17 +1331,10 @@ The dual indexing strategy uses two 8 base indices, Index 1 (i7) adjacent to the
 | N707 | CTCTCTAC | S507 | AAGGAGTA |
 | N708 | CAGAGAGG | S508 | CTAAGCCT |
 | N719 | GCTACGCT |
- |
- |
 | N710 | CGAGGCTG |
- |
- |
 | N711 | AAGAGGCA |
- |
- |
 | N712 | GTAGAGGA |
- |
- |
+
 
 **Supporting Information**
 
