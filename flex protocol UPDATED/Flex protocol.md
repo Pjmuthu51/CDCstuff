@@ -34,7 +34,7 @@ This document provides information for an application for Illumina technology th
 
 
 
-May 19th, 2022 version 4.0 modified by Eldin Talundzic ([etalundzic@cdc.gov)](mailto:etalundzic@cdc.gov)), Pragat Muthu, Julia Kelley and Marko Bajic.
+May 19th, 2022 version 5.0 modified by Eldin Talundzic ([etalundzic@cdc.gov)](mailto:etalundzic@cdc.gov)), Pragat Muthu, Julia Kelley and Marko Bajic.
 
 This protocol format was adapted from the 16S Metagenomics Sequencing Library Preparation [protocol](http://support.illumina.com/documents/documentation/chemistry_documentation/16s/16s-metagenomic-library-prep-guide-15044223-b.pdf) from Illumina, and the [Illlumina DNA Prep Reference Guide](https://support.illumina.com/content/dam/illumina-support/documents/documentation/chemistry_documentation/illumina_prep/illumina-dna-prep-reference-guide-1000000025416-09.pdf).
 
@@ -176,7 +176,7 @@ Hands on time 30 min / 96 samples; Total time 40+ min / 96 samples
 
 Reagents: AMPure XP beads, fresh 70% EtOH
 
-[protocol](https://bec-techdocs-prod.s3.us-west-2.amazonaws.com/techdoc/files/ifu/en/B37419AB.pdf?AWSAccessKeyId=ASIA2KJI7HMZ6XTB5OMU&Expires=1651861410&Signature=fgNQRKg1dvsVDEvqKlDwPmKcL4U%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEOL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDcw0UFZr3Up7tXMipF%2FV%2FiMjvXFY679wY0mb%2FJILQnowIgIRETFeprqEXOFYlswDNDEDJZIrz4sCBki9BndIaAI%2FoqoQIIq%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgw3MDkyOTI0MDc2MDMiDMJY0wihaEDKXQLBYir1AZCo77nrIZUYcnba0oEaecn0WqqNLEi2hzJnEPILp%2Bu0zgPLL391kRYEAl8YFg5KM%2FbScOfb0es6zWk6i5jartmzMCuIYyFfBFkhSQM8Pgc7S8w94B1077sEVl8cuOPZndir5rAsmhx1AFB%2F3AyuEISnCf947B53KDxRJ4cnnos6fz0PyjjJk4biKXvlwJEmjayjQbfOkw2YpCpjnOcLA5jugBkjFSzPxdE9bxBaouQGhmeh6WhWFOkhVKEsG2r1OZC31IdQiLEWevcQBX84FcKVRhoa%2BiJcG3%2FRKRiZ0CezbxlnI7mAul9anGI9mVnshE2BzVpXMMnA1ZMGOpoBGsgpHcNxWq8xTrnHWSfEVkCNa8yOcV2gUZsStkgrErue%2BSJMnd2jQiDjMnkskn9fTbid%2BCRllzKmf6MdgX1pseJbBX6jmomcJoIQ6GAKFEI8%2BnuefejlEAv4sZ9H1ct38%2FmBf%2FKVAfWqDT09vT6yHvKVyVv4CCFHqEan3ka3H9kxr9uw3F%2FzRU735oSvrvVLgxUKqvknh%2B6ypA%3D%3D)
+[protocol](https://bec-techdocs-prod.s3.us-west-2.amazonaws.com/techdoc/files/ifu/en/B37419AB.pdf?AWSAccessKeyId=ASIA2KJI7HMZUWWTI2QP&Expires=1653073446&Signature=kvlppMjBvHJ9h0W93yeIMpn25Xs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEDEaCXVzLXdlc3QtMiJIMEYCIQDenuED187K%2FtbEKgUDs44yyt%2FGiyw9DetZswQvaFHp7wIhAO8oUXljgPo5CjVD8WmCdUYQi1dzP63wi1MHdF7LIVgGKpgCCBoQAxoMNzA5MjkyNDA3NjAzIgzeYq9e5g3FG%2B%2BgxKQq9QEyRGkzaN313bLfw%2FJSIjHezB%2FxX55I38Rr338sy1OzLAyO8%2BaJOx9FgTOicmgJMQdNHBsbtGrLQU0uTvM5HF4aLCk7NQrQBvpcDt2fjRBYEZLpHHmkkYF94Ue%2Bq6cDG%2FFniqUrG2o881ov8rEvN4tyzT9kQa7VifflNd2ymOjKs9yOOajxT2B3mDJi9EvqMVFZtGAN40WK3MWUSD%2Bgk8uReqm7ebjr8Am36iH47qxzvA%2FzgK6QP%2B1NJBU5S7i5y1yWVzzFWh1JaojBShDPv3DWwqMuEt7lLkHkrcHLZf%2FRSz3BxUotyCGyLV6aiuZHgblUGkMf1TDglZ%2BUBjqZAf0zbQnrnKoCByL1KRQCJ7j%2B2AIndKLLZbaSYHZCHJI7rLSFoVOOm5yNkz%2BJIzGNIJI0Lrwy3dDmZ28dtJjVsgcognBvdebA4NILCkEui9ftcE%2BlRVNsMPM7S1iYU%2FwyCApAHKdbqMQPc6sNaOsLdRrpkx5a6xt2OpoiCioYmeF%2FnPBfFRWDLKre0anVW6DWbwR7agq5tDgSZg%3D%3D)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](2021-12-08-21-17-16.png)
 
@@ -522,9 +522,9 @@ This step is necessary to ensure successful amplification of amplicons. It is re
 17. Once amplification is confirmed, proceed to Library Clean-Up.
 
 
-### Library Clean‐Up 
+### PCR amplicons clean up
 
-This step uses AMPure XP beads to clean up the final library before quantification.
+This step uses AMPure XP beads to clean up the final library before quantification. You can locate the protocol [here](https://bec-techdocs-prod.s3.us-west-2.amazonaws.com/techdoc/files/ifu/en/B37419AB.pdf?AWSAccessKeyId=ASIA2KJI7HMZUWWTI2QP&Expires=1653073446&Signature=kvlppMjBvHJ9h0W93yeIMpn25Xs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEDEaCXVzLXdlc3QtMiJIMEYCIQDenuED187K%2FtbEKgUDs44yyt%2FGiyw9DetZswQvaFHp7wIhAO8oUXljgPo5CjVD8WmCdUYQi1dzP63wi1MHdF7LIVgGKpgCCBoQAxoMNzA5MjkyNDA3NjAzIgzeYq9e5g3FG%2B%2BgxKQq9QEyRGkzaN313bLfw%2FJSIjHezB%2FxX55I38Rr338sy1OzLAyO8%2BaJOx9FgTOicmgJMQdNHBsbtGrLQU0uTvM5HF4aLCk7NQrQBvpcDt2fjRBYEZLpHHmkkYF94Ue%2Bq6cDG%2FFniqUrG2o881ov8rEvN4tyzT9kQa7VifflNd2ymOjKs9yOOajxT2B3mDJi9EvqMVFZtGAN40WK3MWUSD%2Bgk8uReqm7ebjr8Am36iH47qxzvA%2FzgK6QP%2B1NJBU5S7i5y1yWVzzFWh1JaojBShDPv3DWwqMuEt7lLkHkrcHLZf%2FRSz3BxUotyCGyLV6aiuZHgblUGkMf1TDglZ%2BUBjqZAf0zbQnrnKoCByL1KRQCJ7j%2B2AIndKLLZbaSYHZCHJI7rLSFoVOOm5yNkz%2BJIzGNIJI0Lrwy3dDmZ28dtJjVsgcognBvdebA4NILCkEui9ftcE%2BlRVNsMPM7S1iYU%2FwyCApAHKdbqMQPc6sNaOsLdRrpkx5a6xt2OpoiCioYmeF%2FnPBfFRWDLKre0anVW6DWbwR7agq5tDgSZg%3D%3D).
 
 #### Consumables
 
@@ -583,7 +583,7 @@ To maximize recovery of smaller fragments from the bead cleanup step, use the fo
 
 9. With the Library amplification plate on the magnetic stand, wash the beads with freshly prepared 70% ethanol as follows:
 
-        A. Using a multichannel pipette, add 200 μl of freshly prepared 80% ethanol to each sample well.
+        A. Using a multichannel pipette, add 200 μl of freshly prepared 70% ethanol to each sample well.
 
         B. Incubate the plate on the magnetic stand for 30 seconds at room temperature.
 
@@ -593,7 +593,7 @@ To maximize recovery of smaller fragments from the bead cleanup step, use the fo
 
 10. With the Library amplification plate on the magnetic stand, perform a second ethanol wash as follows:
 
-        A.  Using a multichannel pipette, add 180 μl of freshly prepared 80% ethanol to each sample well.
+        A.  Using a multichannel pipette, add 180 μl of freshly prepared 70% ethanol to each sample well.
 
         B. Incubate the plate on the magnetic stand for 30 seconds.
 
