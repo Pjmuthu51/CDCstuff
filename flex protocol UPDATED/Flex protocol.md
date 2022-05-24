@@ -85,7 +85,7 @@ Please ensure all the necessary user‐supplied consumables and equipment are av
 | **1000 μl single channel pipettes** | General lab supplier |
 | **PCR grade water** | General lab supplier |
 | **RNase/DNase‐free 8‐well PCR strip tubes and caps** | General lab supplier |
-| **[Optional] Disposable Polystyrene Reservoirs** | General lab supplier (Thomas Scientific Cat # 55501080) |
+| **[Optional] Disposable Polystyrene Reservoirs** | General lab supplier (Thomas Scientific Catalog # 55501080) |
 | **2X ABI TaqMan environmental buffer w/ Rox dye** | Applied Biosystems Catalog # 4396838 |
 | **Strip tubes 8X** | Agilent Catalog #410022 |
 | **Strip Optical caps 8X** | Agilent Catalog #410024 |
@@ -99,11 +99,11 @@ Please ensure all the necessary user‐supplied consumables and equipment are av
 | **DNA gel loading dye** | Yakva Scientific 6X Orange-G Gel Loading Buffer #YSG |
 | **Quick-Load 1kb DNA ladder** | NEB Catalog # N0468 |
 | **UltraPure™ 10X TBE Buffer** | Fisher Scientific Catalog #15581-044 |
-| **AMPure XP beads for PCR Purification** | Beckman Coulter Life Sciences, Cat # A63881 |
+| **AMPure XP beads for PCR Purification** | Beckman Coulter Life Sciences, Catalog # A63881 |
 | **Illumina® DNA Prep, (M) Tagmentation (96 Samples)** | Illumina, Cat# 20018705 (96 samples), or # 20018704 (24 samples) |
-| **\*IDT® for Illumina® DNA UD Index kits (plate)** | Illumina, Cat # 20027213 (Index set A), 20027214 (Index set B), 20027215 (Index set C), and 20027216 (Index set D).|
+| **\*IDT® for Illumina® DNA UD Index kits (plate)** | Illumina, Catalog # 20027213 (Index set A), 20027214 (Index set B), 20027215 (Index set C), and 20027216 (Index set D).|
 | **200 Proof Ethanol** | Decon Labs, Inc. Catalog # 2716 |
-| **AlumaSeal II aluminum seals** | Excel Scientific, Inc. Cat # AF100 |
+| **AlumaSeal II aluminum seals** | Excel Scientific, Inc. Catalog # AF100 |
 | **Clear, 8-strip PCR tubes domed caps** | LabSource, Item # T54-203-CS/10PK MFG# - 321-10-062 |
 | **[Optional] 96‐well storage plates, round well, 300 μl****("MIDI" plate)** | Fisher Scientific, part # AB‐0859 |
 | **Qubit® dsDNA HS Assay Kit** | Life Technologies Corporation Catalog #Q32854 |
@@ -127,13 +127,13 @@ Please ensure all the necessary user‐supplied consumables and equipment are av
 | **-20°C Refrigerator** | General lab supplier |
 | **Vortex** | General lab supplier |
 | **4x Eppendorf PCR Cooler, iceless cold storage system for 96 well plates and PCR tubes** | Sigma-Aldrich, Inc (Z606634-1EA) |
-| **Agilent ABI7500 or equivalent real-time PCR macine** | Agilent Technologies, Cat # 4351106 |
+| **Agilent ABI7500 or equivalent real-time PCR machine** | Agilent Technologies, Catalog #4351106 |
 | **96‐well thermal cycler (with heated lid)** | General lab supplier |
 | **Electrophoresis rig** | General lab supplier |
-| **Magnetic stand‐96 or**  **96S Super Magnet Plate** | Life Technologies, Cat # AM10027 or Alpaqua SKU A001322|
+| **Magnetic stand‐96 or**  **96S Super Magnet Plate** | Life Technologies, Catalog #AM10027 or Alpaqua SKU A001322|
 | **Microplate centrifuge** | General lab supplier |
-| **Qubit 3.0 Fluorometer (or equivalent)** | Life Technologies Corporation, Cat #Q33216 |
-| **Agilent D4200 ScreenTape System (or equivalent)** | Agilent Technologies, Cat # G2991AA |
+| **Qubit 3.0 Fluorometer (or equivalent)** | Life Technologies Corporation, Catalog #Q33216 |
+| **Agilent D4150 TapeStation System (or equivalent)** | Agilent Technologies, Catalog #G2992AA |
 | **MiSeq Desktop Sequencer**| Illumina Inc. |
 
 ## **Protocol Workflow**
@@ -631,7 +631,7 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 
 #### Preparation
 
-•If not completed already, **carefully** pool 5 uL of each gene's corresponding sample into the same well of a half skirt plate before continuing
+•If not completed already, **carefully** pool an equal amount of each gene's corresponding sample into the same well of a half skirt plate to reach a total of 30 μl before continuing
 
 •Add appropriate volume of DNA as obtained from gDNA dilution calculator to each well of a 96-well PCR plate so that the total input amount (100 - 1000 ng) is within the desired range. If DNA volume <30 μl, add nuclease-free molecular grade water to the DNA samples to bring the total volume to 30 μl. Add DNA to the molecular-grade water and mix well by gently pipetting approximately 5-10 times
 
@@ -691,13 +691,11 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 
 1. Again, check TSB for precipitate (if present, warm at 37°C for up to 10 minutes and vortex) and ensure it is at room temperature.
 
-2. Aliquot 12 μl TSB into an 8-tube strip. If there are more than 8 samples, then increase volume accordingly.
+2. Add 10 μl of TSB to each sample with a multichannel pipet.
 
-3. Add 10 μl of TSB to each sample with a multichannel pipet.
+3. Pipet gently 10 times to mix and re-suspend the beads using a multichannel pipet set at 40 μl.
 
-4. Pipet gently 10 times to mix and re-suspend the beads using a multichannel pipet set at 40 μl.
-
-5. Seal the plate with Microseal A (or equivalent) and incubate the plate on the pre-programmed thermal cycler setting "Flex 2" with volume set to 60 μl and lid heated option at 100°C:
+4. Seal the plate with Microseal A (or equivalent) and incubate the plate on the pre-programmed thermal cycler setting "Flex 2" with volume set to 60 μl and lid heated option at 100°C:
 
             37°C for 15 min
 
@@ -705,15 +703,13 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 
     NOTE: This is not a recommended stopping point in the procedure and it is recommended to proceed to the washing steps after samples have reached 10°C.
 
-6. While samples are incubating, thaw EPM on ice and thaw indices at room temperature.
+5. While samples are incubating, thaw EPM on ice and thaw indices at room temperature.
 
-7. Aliquot 105 μl of TWB into three wells per samples in a PCR plate.
+6. After incubation, remove from thermal cycler, quick spin the plate, remove microseal, and place on a magnet for 3 minutes until solution is clear (or until beads form a tight pellet).
 
-8. After incubation, remove from thermal cycler, quick spin the plate, remove microseal, and place on a magnet for 3 minutes until solution is clear (or until beads form a tight pellet).
+7. Using a multichannel pipette set at 100 μl, remove and discard supernatant.
 
-9. Using a multichannel pipette set at 100 μl, remove and discard supernatant.
-
-10. Complete steps **A** - **D** below two times:
+8. Complete steps **A** - **D** below two times:
 
         A. Remove the sample plate from the magnetic stand and add 100 μl TWB directly onto the beads.
 
@@ -725,11 +721,11 @@ The tagmentation step uses the Bead-Linked Transposomes (BLT) to tagment DNA. Th
 
 **NOTE:** _To minimize the potential of TWB foaming during the tagmentation wash, use a deliberately slow pipetting technique to avoid incorrect volume aspiration and incomplete mixing._
 
-11. Remove the plate from the magnetic stand and add 100 μl TWB.
+9. Remove the plate from the magnetic stand and add 100 μl TWB.
 
-12. Pipette each sample well slowly to resuspend the beads.
+10. Pipette each sample well slowly to resuspend the beads.
 
-13. Seal the plate and place on the magnetic stand until the solution is clear (~3 minutes). Allow TWB to remain in the wells (to prevent drying of beads) and proceed to amplification steps.
+11. Seal the plate and place on the magnetic stand until the solution is clear (~3 minutes). Allow TWB to remain in the wells (to prevent drying of beads) and proceed to amplification steps.
 
 **THIS IS**  **NOT**  **A RECOMMENDED SAFE STOPPING POINT** Please proceed to Ampification of Tagmented DNA.
 
@@ -746,9 +742,9 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 | Item | Quantity | Storage |
 | --- | --- | --- |
 | **EPM (Enhanced PCR Mix)** | 20 μl per sample | -15° to -25°C |
-| **Index 1 adapters (plate) (Cat #20018708 (96 samples) or #20018707 (24 samples))** | 10 μl per sample | -15° to -25°C |
-| **Nuclease -free water** | 20 μl per sample | Room temperature |
-| **1.7mL microcentrifuge tube** | Varies | Room temperature |
+| **Index 1 adapters (plate) (Catalog #20018708 (96 samples) or #20018707 (24 samples))** | 10 μl per sample | -15° to -25°C |
+| **Nuclease-free water** | 20 μl per sample | Room temperature |
+| **1.7 mL microcentrifuge tube** | Varies | Room temperature |
 | **Microseal "A" film** | Varies | Room temperature |
 
 #### Preparation
@@ -790,18 +786,16 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 
 3. Vortex and quick spin the PCR master mix.
 
-4. Aliquot 42 μl of master mix into an 8-tube strip. If there are more than 8 samples, then increase volume accordingly.
-
-5. Using a multichannel pipette set at 200 μl remove TWB from beads. Use a small volume pipette to ensure removal of residual TWB before proceeding.
+4. Using a multichannel pipette set at 200 μl remove TWB from beads. Use a small volume pipette to ensure removal of residual TWB before proceeding.
 
 **NOTE:** _Removal of TWB is crucial, as it can impede PCR. However, any foam remaining on the wells will not negatively impact the library._
 
-6. Remove from the magnet and immediately add 40 μl of PCR master mix to each sample.
+5. Remove from the magnet and immediately add 40 μl of PCR master mix to each sample.
 
-7. Using a multichannel pipette set at 30 μl gently pipet to mix, re-suspending the pellet. If necessary, scrape the side of the well with the pipette tips to resuspend the beads
+6. Using a multichannel pipette set at 30 μl gently pipet to mix, re-suspending the pellet. If necessary, scrape the side of the well with the pipette tips to resuspend the beads
 
 
-8. Add 10 μl of appropriate index pair from indices plate to each sample well.
+7. Add 10 μl of appropriate index pair from indices plate to each sample well.
 
      NOTE: It is recommended to pierce the foil of the desired well on the index plate with a new 200 μl pipet tip, then to use a fresh pipette tip to withdraw the indices from the wells, followed by re- sealing the index plate with a new foil cover (i.e. Microseal F) after each use. 
      
@@ -809,9 +803,9 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 
 **NOTE:** Index should be added as next available down the columns
 
-9. Using a multichannel pipette set at 40 μl mix by pipetting a minimum of 10 times.
+8. Using a multichannel pipette set at 40 μl mix by pipetting a minimum of 10 times.
 
-10. Seal the plate with Microseal A (or equivalent) and place the plate on the pre-programmed thermal cycler setting "Flex 3" with volume set to 50 μl and lid heated option at 100°C:
+9. Seal the plate with Microseal A (or equivalent) and place the plate on the pre-programmed thermal cycler setting "Flex 3" with volume set to 50 μl and lid heated option at 100°C:
 
          • 68°C for 3 minutes
 
@@ -829,7 +823,7 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 
          • Hold at 10°C
 
-11. Centrifuge plate for at 280 x g for 1 minute.
+10. Centrifuge plate for at 280 x g for 1 minute.
 
 **NOTE: This is a safe stopping point. The plate may be sealed with Microseal B or equivalent and stored at 2°C to 8°C for up to 3 days.** If you choose to continue, please proceed to Library PCR Clean-Up.
 
@@ -846,7 +840,7 @@ This step uses Sample purification beads to clean up the final library before qu
 
 | Item | Quantity | Storage |
 | --- | --- | --- |
-| **RSB (Resuspension Buffer)** | \_\_ μl per sample | -15° to -25°C (after initial thaw, can keep at 2° to 8°C |
+| **RSB (Resuspension Buffer)** | 32 μl per sample | -15° to -25°C (after initial thaw, can keep at 2° to 8°C |
 | **SPB (Sample Purification Beads)** | 40.8 μl per sample | 2° to 8°C |
 | **Freshly Prepared 80% Ethanol (EtOH)** | 44.2 μl per sample | Room temperature |
 | **96‐well 0.2 ml PCR plate** | Varies | Room temperature |
@@ -858,9 +852,9 @@ This step uses Sample purification beads to clean up the final library before qu
 
 #### Preparation
 
-    •Thaw RSB at room temperature and vortex to mix.
+    •Thaw RSB at room temperature and vortex to mix. For future use, it is recommended to aliquot RSB into a smaller volume container (such as a 1.5 mL tube) to reduce thawing times. 
 
-    • Bring the SPB to room temperature- wait at least 30 minutes. Once at room temperature, vortex and invert the beads several times to re-suspend any particles that may have settled. Ensure magnetic beads are well (evenly) distributed before adding them to samples.
+    •Bring the SPB to room temperature- wait at least 30 minutes. Once at room temperature, vortex and invert the beads several times to re-suspend any particles that may have settled. Ensure magnetic beads are well (evenly) distributed before adding them to samples.
 
     NOTE: Proceed very cautiously during this procedure and take your time to ensure as little bubble formation as possible.
 
@@ -894,7 +888,7 @@ This step uses Sample purification beads to clean up the final library before qu
 
 5. Remove sample plate from the magnet.
 
-6. Vortex SPB master mix thoroughly and aliquot 90 μl per well and add into an 8-tube strip. If there are more than 8 samples, then increase volume accordingly.
+6. Vortex SPB master mix thoroughly.
 
 7. Using a multichannel pipette mix briefly and add 85 μl of SPB master mix to each sample.
 
@@ -906,11 +900,9 @@ This step uses Sample purification beads to clean up the final library before qu
 
 10. Place on the magnet for 3-5 minutes (or until beads form a tight pellet).
 
-11. During incubation re-vortex the stock SPB and aliquot 20 μl into an 8-tube strip. If there are more than 8 samples, then increase volume accordingly.
+11. During incubation re-vortex the stock SPB.
 
-12. After incubation, with the plate still on the magnet, transfer 105 μl of supernatant (containing DNA) to new wells.
-
-_If necessary, up to 125 μl of supernatant can be transferred_
+12. After incubation, while keeping the plate still on the magnet, transfer 105 μl of supernatant - which now contains the library DNA - to new wells. _If desired, up to 125 μl of supernatant can be transferred_
 
 13. Remove the plate from the magnet and add 12.6 μl of stock SPB solution to the supernatant. If volume other than 105 μl was used, then maintain a bead ratio of 0.12x
 
@@ -934,19 +926,17 @@ _If necessary, up to 125 μl of supernatant can be transferred_
 
 20. With the Library amplification plate still on the magnetic stand, allow the beads to air‐dry for 3-5 minutes.
 
-**NOTE** : make sure not to over dry the beads. Bead pellets will appear cracked if over dried. If cracking is observed, immediately re-suspend beads as described below regardless of drying time.
+**NOTE**: Make sure not to over dry the beads. Bead pellets will appear cracked if over dried. If cracking is observed, immediately re-suspend beads as described below regardless of drying time.
 
-21. Aliquot 35 μl of RSB per well into an 8-tube strip. If there are more than 8 samples, then increase volume accordingly.
+21. Remove the plate from the magnetic stand and add 32 μl RSB to each well of the plate.
 
-22. Remove the plate from the magnetic stand and add 32 μl RSB to each well of the plate.
+22. With a multichannel pipette set at 25 μl, gently pipet a minimum of 10 times to thoroughly mix.
 
-23. With a multichannel pipette set at 25 μl, gently pipet a minimum of 10 times to thoroughly mix.
+23. Incubate at room temperature for 2-5 minutes.
 
-24. Incubate at room temperature for 2-5 minutes.
+24. Place the plate back on the magnetic stand for 3 minutes or until the supernatant has cleared.
 
-25. Place the plate back on the magnetic stand for 3 minutes or until the supernatant has cleared.
-
-26. Using a multichannel pipette, carefully transfer 25 μl of the supernatant from the Library amplification plate to a new 96‐well PCR plate. Change tips between samples to avoid cross‐contamination.
+25. Using a multichannel pipette, carefully transfer 25 μl of the supernatant from the Library amplification plate to a new 96‐well PCR plate. Change tips between samples to avoid cross‐contamination.
 
 **SAFE STOPPING POINT**
 
@@ -1010,13 +1000,13 @@ This SOP format was adapted from the Agilent D5000 ScreenTape System Quick Guide
 | **D5000 Ladder** | 1 μl | 2° to 8°C |
 | **ScreenTape** | Holds 16 samples per tape | 2° to 8°C |
 
-Prepare TapeStation System D5000
+**Prepare TapeStation System D5000**
 
-**•** Launch the 2200 TapeStation Controller Software.
+**•** Launch the 4150 TapeStation Controller Software.
 
-**•** Load single D5000 ScreenTape device and loading tips into the 2200 TapeStation instrument.
+**•** Load single D5000 ScreenTape device and loading tips into the 4150 TapeStation instrument.
 
-Sample Preparation D5000 ScreenTape Assay
+**Sample Preparation D5000 ScreenTape Assay**
 
 1. Allow reagents to equilibrate at room temperature for 30 minutes.
 
@@ -1030,11 +1020,11 @@ Sample Preparation D5000 ScreenTape Assay
 
 6. Spin down to position the sample at the bottom of the tube.
 
-Sample Analysis
+**Sample Analysis**
 
-1. Load samples into the 2200 TapeStation instrument
+1. Load samples into the 4150 TapeStation instrument
 
-2. Select the required samples on the 2200 TapeStation Controller Software.
+2. Select the required samples on the 4150 TapeStation Controller Software.
 
 3. Click Start and specify a filename with which to save your results.
 
@@ -1045,7 +1035,7 @@ If you do not plan to proceed to _Part II Qubit Flurometer 3.0 dsDNA HS Assay_, 
 
 **Part II (continued): Procedure for determining library concentration**
 
-Qubit Fluorometer 3.0 dsDNA HS Assay
+**Qubit Fluorometer 3.0 dsDNA HS Assay**
 
 This SOP format was adapted from the Qubit® dsDNA HS Assay Kits [protocol](https://tools.thermofisher.com/content/sfs/manuals/Qubit_dsDNA_HS_Assay_UG.pdf) from Life Technologies.
 
@@ -1061,7 +1051,7 @@ Consumables
 | **Standard #2** | 10 μl per use | 2° to 8°C |
 | **Qubit™ Assay Tubes** | 1 per sample and 1 for each ladder | Room temperature |
 
-Before you begin
+**Before you begin**
 
 • The final volume in each tube must be 200 μl.
 
@@ -1075,7 +1065,7 @@ Before you begin
 
 • Be sure to use a clean plastic tube each time you prepare Qubit working solution. Do not mix the working solution in a glass container
 
-Procedure
+**Procedure**
 
 Standard and Sample Preparation
 
@@ -1347,18 +1337,32 @@ Illumina uses a green laser or LED to sequence G/T and a red laser or LED to seq
 | _Plex_ | _Index 1 (i7) Selection_ | _Index 2 (i5) Selection_ |
 | --- | --- | --- |
 | **1‐plex (no pooling)** | Any Index 1 adapter | Any Index 2 adapter |
-| **2‐plex** | • [option 1] N702 and N701• [option 2] N702 and N704 |
-| **3‐plex** | • [option 1] N701, N702, and N704• [option 2] N703, N705, and N706 |
-| **4‐ or 5‐plex** | • [option 1] N701, N702, N704, and any other Index 1 adapter • [option 2] N703, N705, N706, and any other Index 1 adapter |
+| **2‐plex** | • [option 1] N702 and N701
+ | |• [option 2] N702 and N704 |
+ | | |
+| **3‐plex** | • [option 1] N701, N702, and N704 |
+| |• [option 2] N703, N705, and N706 |
+ | | |
+| **4‐ or 5‐plex** | • [option 1] N701, N702, N704, and any other Index 1 adapter 
+| |• [option 2] N703, N705, N706, and any other Index 1 adapter |
+ | | |
 | **6‐plex** | N701, N702, N703, N704, N705, and N706 |
 
 **Table 17** Sequencing Workflow: Single or Dual Index
 
+**Below options from index 1 can be used in various combinations with options from index 2.**
+
 | _Plex_ | _Index 1 (i7) Selection_ | _Index 2 (i5) Selection_ |
 | --- | --- | --- |
-| **7–12 plex, Dual Index** | • [option 1] N701, N702, N704, and any other Index 1 adapter (as needed)• [option 2] N703, N705, N706, andany other Index 1 adapter (as needed) | • [option 1] S501 and S502 • [option 2] S503 and S504• [option 3] S505 and S506 |
-| **7–12 plex, Single Index (96 sample Nextera Index adapter kit)** | • N701–N706 and any other Index 1adapter (as needed) | • Any Index 2 (i5) adapter |
-| **Greater than 12‐plex** | N701, N702, N703, N704, N705,N706, and any other Index 1 adapter | • [option 1] S501, S502, and anyother Index 2 adapter (as needed) • [option 2] S503, S504, and anyother Index 2 adapter (as needed) • [option 3] S505, S506, and anyother Index 2 adapter (as needed) |
+| **7–12 plex, Dual Index** | • [option 1] N701, N702, N704, and any other Index 1 adapter (as needed)| • [option 1] S501 and S502 |
+| | • [option 2] N703, N705, N706, and any other Index 1 adapter (as needed) | • [option 2] S503 and S504
+| | |• [option 3] S505 and S506 
+| | | |
+| **7–12 plex, Single Index (96 sample Nextera Index adapter kit)** | • N701–N706 and any other Index 1 adapter (as needed) | • Any Index 2 (i5) adapter |
+| | | |
+| **Greater than 12‐plex** | N701, N702, N703, N704, N705,N706, and any other Index 1 adapter | • [option 1] S501, S502, and any other Index 2 adapter (as needed)  |
+| | | • [option 2] S503, S504, and any other Index 2 adapter (as needed)|
+| | | • [option 3] S505, S506, and any other Index 2 adapter (as needed) |
 
 These strategies represent only some of the acceptable combinations. Alternatively, check the real sequences of each index in the tables to make sure that each base position has a signal in both color channels for the index read:
 
