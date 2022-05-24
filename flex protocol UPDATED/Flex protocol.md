@@ -85,36 +85,36 @@ Please ensure all the necessary user‐supplied consumables and equipment are av
 | **1000 μl single channel pipettes** | General lab supplier |
 | **PCR grade water** | General lab supplier |
 | **RNase/DNase‐free 8‐well PCR strip tubes and caps** | General lab supplier |
-| **[Optional] Disposable Polystyrene Reservoirs** | General lab supplier (Thomas Scientific Cat # 55501080) |
-| **2X ABI TaqMan environmental buffer w/ Rox dye** | Applied Biosystems Catalog # 4396838 |
+| **[Optional] Disposable Polystyrene Reservoirs** | General lab supplier (Thomas Scientific Catalog #55501080) |
+| **2X ABI TaqMan environmental buffer w/ Rox dye** | Applied Biosystems Catalog #4396838 |
 | **Strip tubes 8X** | Agilent Catalog #410022 |
 | **Strip Optical caps 8X** | Agilent Catalog #410024 |
-| **Hardshell® 96‐well PCR Plates, clear semi skirted** | Bio-Rad Catalog # HSS9601 |
-| **Phusion® High-Fidelity DNA Polymerase** | NEB Catalog # M0530L |
+| **Hardshell® 96‐well PCR Plates, clear semi skirted** | Bio-Rad Catalog #HSS9601 |
+| **Phusion® High-Fidelity DNA Polymerase** | NEB Catalog #M0530L |
 | **Deoxynucleotide (dNTP) Solution Mix** | NEB Catalog #N0447L |
 | **Amplicon PCR Forward Primer (Standard desalting)** | (See tables 2-7) |
 | **Amplicon PCR Reverse Primer (Standard desalting)** | (See tables 2-7) |
-| **Lonza SeaKem® LE Agarose** | Lonza Catalog # 50004 |
+| **Lonza SeaKem® LE Agarose** | Lonza Catalog #50004 |
 | **Nucleic Acid gel stain** | Biotum GelRed™ Nucleic Acid Gel Stain |
 | **DNA gel loading dye** | Yakva Scientific 6X Orange-G Gel Loading Buffer #YSG |
-| **Quick-Load 1kb DNA ladder** | NEB Catalog # N0468 |
+| **Quick-Load 1kb DNA ladder** | NEB Catalog #N0468 |
 | **UltraPure™ 10X TBE Buffer** | Fisher Scientific Catalog #15581-044 |
-| **AMPure XP beads for PCR Purification** | Beckman Coulter Life Sciences, Cat # A63881 |
-| **Illumina DNA Prep library kit** | Illumina, Cat# 20018705 (96 samples), or # 20018704 (24 samples) |
-| **\*IDT® for Illumina® DNA UD Index kits (plate)** | Illumina, Cat # 20027213 (Index set A), 20027214 (Index set B), 20027215 (Index set C), and 20027216 (Index set D).|
-| **200 Proof Ethanol** | Decon Labs, Inc. Catalog # 2716 |
-| **AlumaSeal II aluminum seals** | Excel Scientific, Inc. Cat # AF100 |
-| **Clear, 8-strip PCR tubes domed caps** | LabSource, Item # T54-203-CS/10PK MFG# - 321-10-062 |
-| **[Optional] 96‐well storage plates, round well, 300 μl****("MIDI" plate)** | Fisher Scientific, part # AB‐0859 |
+| **AMPure XP beads for PCR Purification** | Beckman Coulter Life Sciences, Catalog #A63881 |
+| **Illumina DNA Prep library kit** | Illumina, Catalog #20018705 (96 samples), or #20018704 (24 samples) |
+| **\*IDT® for Illumina® DNA UD Index kits (plate)** | Illumina, Catalog #20027213 (Index set A), #20027214 (Index set B), #20027215 (Index set C), and #20027216 (Index set D).|
+| **200 Proof Ethanol** | Decon Labs, Inc. Catalog #2716 |
+| **AlumaSeal II aluminum seals** | Excel Scientific, Inc. Catalog #AF100 |
+| **Clear, 8-strip PCR tubes domed caps** | LabSource, Catalog #T54-203-CS/10PK MFG# - 321-10-062 |
+| **[Optional] 96‐well storage plates, round well, 300 μl****("MIDI" plate)** | Fisher Scientific, Catalog #AB‐0859 |
 | **Qubit® dsDNA HS Assay Kit** | Life Technologies Corporation Catalog #Q32854 |
-| **Qubit™ Assay Tubes** | Thermo Fisher Scientific Catalog # Q32856 |
-| **Agilent High Sensitivity D5000 ScreenTape** | Agilent Technologies, Cat. # 5067-5592 |
-| **Agilent High Sensitivity D5000 Reagents** | Agilent Technologies, Cat. # 5067-5593 |
-| **Agilent High Sensitivity D5000 Ladder** | Agilent Technologies, Cat. # 5067-5594 |
+| **Qubit™ Assay Tubes** | Thermo Fisher Scientific Catalog #Q32856 |
+| **Agilent High Sensitivity D5000 ScreenTape** | Agilent Technologies, Catalog #5067-5592 |
+| **Agilent High Sensitivity D5000 Reagents** | Agilent Technologies, Catalog #5067-5593 |
+| **Agilent High Sensitivity D5000 Ladder** | Agilent Technologies, Catalog #5067-5594 |
 | **1N NaOH** | Sigma-Aldrich, Inc. Catalog #SX0607H-6 |
 | **Tris Hydrochloride, 1M Solution (pH 7.0/Mol. Biol.)** | Thermo Fisher Scientific Catalog #BP1756-100 |
-| **MiSeq Reagent Kit V2 500 cycle kit** | Illumina #MS-102-2003 |
-| **MiSeq Reagent V2 Nano Kit 500 cycle** | Illumina #MS-103-1003 |
+| **MiSeq Reagent Kit V2 500 cycle kit** | Illumina Catalog #MS-102-2003 |
+| **MiSeq Reagent V2 Nano Kit 500 cycle** | Illumina Catalog #MS-103-1003 |
 
 **\* If you plan to pool >96 samples, you will need the Index Kit Set A, B, C, and D to provide unique multiplex combinations of indices**
 
@@ -127,13 +127,13 @@ Please ensure all the necessary user‐supplied consumables and equipment are av
 | **-20°C Refrigerator** | General lab supplier |
 | **Vortex** | General lab supplier |
 | **4x Eppendorf PCR Cooler, iceless cold storage system for 96 well plates and PCR tubes** | Sigma-Aldrich, Inc (Z606634-1EA) |
-| **Agilent ABI7500 or equivalent real-time PCR macine** | Agilent Technologies, Cat # 4351106 |
+| **Agilent ABI7500 or equivalent real-time PCR macine** | Agilent Technologies, Catalog #4351106 |
 | **96‐well thermal cycler (with heated lid)** | General lab supplier |
 | **Electrophoresis rig** | General lab supplier |
-| **Magnetic stand‐96 or**  **96S Super Magnet Plate** | Life Technologies, Cat # AM10027 or Alpaqua SKU A001322|
+| **Magnetic stand‐96 or**  **96S Super Magnet Plate** | Life Technologies, Catalog #AM10027 or Alpaqua SKU A001322|
 | **Microplate centrifuge** | General lab supplier |
-| **Qubit 3.0 Fluorometer (or equivalent)** | Life Technologies Corporation, Cat #Q33216 |
-| **Agilent D4200 ScreenTape System (or equivalent)** | Agilent Technologies, Cat # G2991AA |
+| **Qubit 3.0 Fluorometer (or equivalent)** | Life Technologies Corporation, Catalog #Q33216 |
+| **Agilent D4200 ScreenTape System (or equivalent)** | Agilent Technologies, Catalog #G2991AA |
 | **MiSeq Desktop Sequencer**| Illumina Inc. |
 
 ## **Protocol Workflow**
@@ -387,15 +387,22 @@ User‐defined forward and reverse primers are used to amplify templates from ge
 The tables below show primers and PCR conditions for _Pfcrt (6.1), Pfk13 (6.2), Mitochondrial genome (6.3), Pfcytb (6.3a), Pfdhps (6.4), Pfdhfr (6.5), Pfmdr1 (6.6), Pfs47(6.7), and Pfcpmp (6.8)_
 
 ##### **Table 6.1  _Pfcrt_** 
+**Amplicon size: 3109bp**
+
 ![](2021-12-08-21-48-04.png)
 
 **Primers:  Pfcrt_F1 Sequence (5' to 3'):** _TTACATATAACAAAATGAAATTCGC_ **; Pfcrt_R1 Sequence (5' to 3'):** _TATTGTGTAATAATTGAATCGACG_
+
 ##### **Table 6.2  _Pfk13_**
+**Amplicon size: 2181bp**
+
 ![](2021-12-08-21-49-26.png)
 
 **Primers:  Pfk13_F1_ETn2 Sequence (5' to 3'):** _CTATGACGTATGATAGGGAATCTGG_ **; Pfk13_R1_ETn2 Sequence (5' to 3'):** _CTGGGAACTAATAAAGATGGGCC_
 
 ##### **Table 6.3 _Mitochondrial genome_**
+**Amplicon size: 5967bp**
+
 ![](2021-12-08-21-58-41.png)
 
 **Primers:  Mitochondrion_F1 Sequence (5’ to 3’):** _AAGCTTTTGGTATCTCGTAAT_ **; Mitochondrion_R1 Sequence (5’ to 3’):** _TATTATAATATAACTCTACAAAGTTGAAC_
@@ -403,17 +410,21 @@ The tables below show primers and PCR conditions for _Pfcrt (6.1), Pfk13 (6.2), 
 NOTE: If experiencing issues with amplifying the full-length mitochondrial genome, consider amplifying only the _cyt-b_ gene instead for characterizing molecular markers associated with Malarone (atovaquone/proguanil) resistance. See Table 6.3a below.
 
 ##### **Table 6.3a _Cytochrome b_**
+**Amplicon size: 937bp**
+
 ![](2021-12-08-22-01-07.png)
 
 **Primers:  CytB_F1_Sequence (5' to 3'):** _CTATTAATTTAGTTAAAGCACAC_ **; CytB_R1_Sequence (5' to 3'):** _ACAGAATAATCTCTAGCACCA_
 
 ##### **Table 6.4 _mdr1_**
+**Amplicon size: 4155bp**
 
 ![](2021-12-08-22-10-34.png)
 
 **Primers:  Pfmdr1_F1_Sequence (5' to 3'):** _TGGTAACCTCAGTATCAAAG_ **; Pfmdr1_R1_Sequence (5' to 3'):** _CATCTTGTGCTGATAATAATTC_
 
 ##### **Table 6.5 _dhfr_**
+**Amplicon size: 2067bp**
 
 ![](2021-12-08-22-11-24.png)
 
@@ -423,6 +434,8 @@ NOTE: If experiencing issues with amplifying the full-length mitochondrial genom
 
 
 ##### **Table 6.6 _dhps_**
+**Amplicon size: 2817bp**
+
 ![](2021-12-08-23-22-12.png)
 
 **Primers:  Pfdhps_F Sequence (5' to 3'):** _AATATTTGCGCCAAACTTTTTA_ **; Pfdhps_R Sequence (5' to 3'):** *TTTATTTCGTAATAGTCCACTTTTGAT*
@@ -430,6 +443,8 @@ NOTE: If experiencing issues with amplifying the full-length mitochondrial genom
 **\*Primers adapted from: SC, Carlton JM**. 2016. A Method for Amplicon Deep Sequencing of Drug Resistance Genes in Plasmodium falciparum Clinical Isolates from India. J Clin Microbiol 54:1500–1511.
 
 ##### **Table 6.7 _Pfs47_- Geographic Determination**
+**Amplicon size: 1320bp**
+ 
 ![](2021-12-08-23-24-08.png)
 
 **Primers:  Pfs47_F Sequence (5' to 3'):** *ATGTGTATGGGAAGAATGATCAG* **; Pfs47_R Sequence (5' to 3'):**  *TCATATGCTAACATACATGTAAAAAATTAC*
@@ -437,6 +452,8 @@ NOTE: If experiencing issues with amplifying the full-length mitochondrial genom
 
 
 ##### Table 6.8 *Pfcpmp - Recrudescence vs Reinfection*
+**Amplicon size: 805bp**
+
 ![](2021-12-08-23-26-15.png)
 
 **Primers:  Pfcpmp_F Sequence (5' to 3'):** *GTCATTAAAATTTATGGATTATATATGG* **; Pfcpmp_R Sequence (5' to 3'):** *GTTACTATCCAAGATCGTTAATATC*
@@ -746,7 +763,7 @@ This step amplifies the tagmented DNA using a limited-cycle PCR program. The PCR
 | Item | Quantity | Storage |
 | --- | --- | --- |
 | **EPM (Enhanced PCR Mix)** | 20 μl per sample | -15° to -25°C |
-| **Index 1 adapters (plate) (Cat #20018708 (96 samples) or #20018707 (24 samples))** | 10 μl per sample | -15° to -25°C |
+| **Index 1 adapters (plate) (Catalog #20018708 (96 samples) or #20018707 (24 samples))** | 10 μl per sample | -15° to -25°C |
 | **Nuclease -free water** | 20 μl per sample | Room temperature |
 | **1.7mL microcentrifuge tube** | Varies | Room temperature |
 | **Microseal "A" film** | Varies | Room temperature |
@@ -998,7 +1015,7 @@ After determining the fragment size and concentration of your pooled product, yo
 
 Agilent Technologies Agilent D5000 ScreenTape System
 
-This SOP format was adapted from the Agilent D5000 ScreenTape System Quick Guide [protocol](http://hpst.cz/sites/default/files/attachments/screentape-d5000-qg.pdf) from Agilent Technologies.
+This SOP format was adapted from the Agilent D5000 ScreenTape System Quick Guide [protocol](https://www.agilent.com/cs/library/usermanuals/public/HS-D5000_QuickGuide.pdf) from Agilent Technologies.
 
 **Consumables:**
 
@@ -1362,7 +1379,7 @@ Illumina uses a green laser or LED to sequence G/T and a red laser or LED to seq
 
 These strategies represent only some of the acceptable combinations. Alternatively, check the real sequences of each index in the tables to make sure that each base position has a signal in both color channels for the index read:
 
-![](2022-01-13-21-00-55.png)
+![](2022-05-24-00-49-33.png)
 
 √=signal in both color
 
